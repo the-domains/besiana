@@ -25,9 +25,6 @@ navigation:
   - name: Skills
     id: daced828-708c-4bfc-9060-ef17c68007f3
     type: content
-  - name: Hobbies
-    id: 6ea48809-7e11-423b-9a0a-3b809bd92a66
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
 collections:
