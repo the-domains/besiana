@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T21:15:29.571Z'
+datePublished: '2016-09-30T21:16:31.870Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T21:15:28.910Z'
+dateModified: '2016-09-30T21:16:31.005Z'
 title: Skills
 publisher: {}
 description: ''
@@ -15,7 +15,7 @@ _type: Blurb
 
 ---
 # Skills
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9c15d91-1ff2-4b0b-acfc-6dc9e4afc554.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ac234ff-d660-48a9-82e3-ae8e99c61a4d.gif)
 ![Konzept & Strategie
 
 Wireframes
