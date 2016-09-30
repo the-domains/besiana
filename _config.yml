@@ -1,0 +1,53 @@
+typography_spectrum: 0.4150320999324322
+content_rating:
+  adult: false
+color:
+  saturation: 0.2335005395580083
+  brandStrength: 0.33481498225592077
+  rhythmicContrast: 0.027835746994242072
+  brandColors:
+    - '#2CBCCD'
+    - '#0A151F'
+    - '#CC99C2'
+    - '#F6FAF9'
+    - '#D23777'
+  lightness: 0.7390075605362654
+github: true
+layout_spectrum: 0.9057532756123692
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: www.bb.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
+name: Besiana
+navigation:
+  - name: Skills
+    id: daced828-708c-4bfc-9060-ef17c68007f3
+    type: content
+  - name: Hobbies
+    id: 6ea48809-7e11-423b-9a0a-3b809bd92a66
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Love something new every day
+description: Trial and error
+purpose:
+  - type: internal
+    label: Skills
+    item: daced828-708c-4bfc-9060-ef17c68007f3
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: Contact me
