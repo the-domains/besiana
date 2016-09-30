@@ -1,21 +1,33 @@
 ---
-datePublished: '2016-09-30T21:36:25.991Z'
+datePublished: '2016-09-30T22:01:49.560Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T21:36:25.241Z'
+dateModified: '2016-09-30T22:01:49.014Z'
 title: Skills
 publisher: {}
-description: ''
+description: |-
+  Konzept & Strategie
+
+  Wireframes
+
+  Interaction Design
+
+  Web Design
+
+  User Interface Design
+
+  Prototypes
+
+  Development
 starred: false
 url: skills/index.html
 _type: Blurb
 
 ---
 # Skills
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fab8f9e-895e-4dc4-a048-40058c24c759.gif)
 ![Konzept & Strategie
 
 Wireframes
