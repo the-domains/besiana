@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T20:59:11.169Z'
+datePublished: '2016-09-30T21:01:00.181Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T20:59:10.637Z'
+dateModified: '2016-09-30T21:00:59.572Z'
 title: Skills
 publisher: {}
 description: ''
@@ -30,10 +30,8 @@ Prototypes
 
 Development](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7931f0f-cb57-488a-a739-fe4bbedb25ae.gif)
 
-* Konzept & Strategie
-* Wireframes
-* Interaction Design
-* Web Design
-* User Interface Design
-* Prototypes
-* Development
+> Content Marketing 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a64e8ad-d611-448b-bbb7-fd0248673251.gif)
+
+*
