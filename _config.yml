@@ -1,5 +1,6 @@
-layout_spectrum: 0.9189428288955241
 typography_spectrum: 0.8877937700599432
+content_rating:
+  adult: false
 color:
   saturation: 0.9937970887403935
   brandStrength: 0.8475520885549486
@@ -11,9 +12,8 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   lightness: 0.5606211272533983
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.9189428288955241
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
@@ -22,9 +22,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
 name: Besiana
 navigation:
-  - name: Skills
-    id: daced828-708c-4bfc-9060-ef17c68007f3
-    type: content
   - name: About me
     id: 7654100b-d584-4a76-b5e8-b712257325f8
     type: content
