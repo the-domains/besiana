@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T22:01:49.560Z'
+datePublished: '2016-09-30T22:11:31.412Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T22:01:49.014Z'
+dateModified: '2016-09-30T22:11:30.764Z'
 title: Skills
 publisher: {}
 description: |-
@@ -41,4 +41,3 @@ User Interface Design
 Prototypes
 
 Development](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7931f0f-cb57-488a-a739-fe4bbedb25ae.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b54ac8d-835f-4319-b275-cfd0e39d1b82.gif)
