@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T22:11:31.412Z'
+datePublished: '2016-09-30T22:48:36.778Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T22:11:30.764Z'
+dateModified: '2016-09-30T22:48:36.230Z'
 title: Skills
 publisher: {}
 description: |-
