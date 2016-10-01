@@ -31,16 +31,16 @@ color:
     - '#01B0F0'
     - '#AEEE00'
   lightness: 0.5606211272533983
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
+name: Besiana Bandilli
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
-name: Besiana Bandilli
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
 typography_spectrum: 0.588411
-layout_spectrum: 0.876344
+layout_spectrum: 0.9277181
 content_rating:
   adult: false
