@@ -22,14 +22,14 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
 name: Besiana
 navigation:
+  - name: About me
+    id: 7654100b-d584-4a76-b5e8-b712257325f8
+    type: content
   - name: >-
       A good Experience focuses on the users needs and creates simple solutions
       for complex problems. My goal is to work with people who are highly
       motivated and share the same visions.
     id: daced828-708c-4bfc-9060-ef17c68007f3
-    type: content
-  - name: About me
-    id: 7654100b-d584-4a76-b5e8-b712257325f8
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
