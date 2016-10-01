@@ -25,6 +25,9 @@ navigation:
   - name: Skills
     id: 1e7335fc-e550-4745-8255-c5bbc68d54bc
     type: content
+  - name: I am passionate about
+    id: 61afb10a-1ffe-4ff6-ba67-6191c2ac40ed
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
 collections:
