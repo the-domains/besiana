@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T21:05:14.726Z'
+datePublished: '2016-10-01T21:07:59.317Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T21:05:14.046Z'
+dateModified: '2016-10-01T21:07:58.571Z'
 title: I am passionate about
 publisher: {}
 description: 'User Centred Design, AI, VR, Science, Arts, Nature'
