@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Trial and error
 color:
   saturation: 0.9937970887403935
@@ -40,7 +40,7 @@ author:
 name: Besiana Bandilli
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
-typography_spectrum: 0.541816
+typography_spectrum: 0.5537634
 layout_spectrum: 0.9277181
 content_rating:
   adult: false
