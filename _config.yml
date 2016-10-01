@@ -28,6 +28,9 @@ navigation:
   - name: I am passionate about
     id: 61afb10a-1ffe-4ff6-ba67-6191c2ac40ed
     type: content
+  - name: Besiana Bandilli UX Designer
+    id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
 collections:
