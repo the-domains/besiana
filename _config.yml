@@ -1,12 +1,28 @@
-title: Love something new every day
+typography_spectrum: 0.588411
+content_rating:
+  adult: false
+color:
+  saturation: 0.9937970887403935
+  brandStrength: 0.8475520885549486
+  rhythmicContrast: 0.1820328815374523
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  lightness: 0.5606211272533983
 github: true
-purpose:
-  - type: internal
-    label: Skills
-    item: daced828-708c-4bfc-9060-ef17c68007f3
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: Contact
+layout_spectrum: 0.9277181
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
+name: Besiana Bandilli
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
 collections:
   - index:
       path: /
@@ -19,28 +35,12 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-description: Trial and error
-color:
-  saturation: 0.9937970887403935
-  brandStrength: 0.8475520885549486
-  rhythmicContrast: 0.1820328815374523
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  lightness: 0.5606211272533983
-name: Besiana Bandilli
-author:
-  name: Besiana Bandilli
-  email: bandillib@gmail.com
-  url: ''
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
-typography_spectrum: 0.588411
-layout_spectrum: 0.9277181
-content_rating:
-  adult: false
+title: Love something new every day
+description: ''
+purpose:
+  - type: internal
+    label: Skills
+    item: daced828-708c-4bfc-9060-ef17c68007f3
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: Contact
