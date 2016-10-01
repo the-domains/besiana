@@ -1,41 +1,12 @@
-typography_spectrum: 0.5537634
-content_rating:
-  adult: false
-color:
-  saturation: 0.9937970887403935
-  brandStrength: 0.8475520885549486
-  rhythmicContrast: 0.1820328815374523
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  lightness: 0.5606211272533983
+title: Love something new every day
 github: true
-layout_spectrum: 0.9277181
-author:
-  name: Besiana Bandilli
-  email: bandillib@gmail.com
-  url: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
-name: BB
-navigation:
-  - name: About me
-    id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
-    type: content
-  - name: Skills
-    id: 1e7335fc-e550-4745-8255-c5bbc68d54bc
-    type: content
-  - name: Passionate about
-    id: 61afb10a-1ffe-4ff6-ba67-6191c2ac40ed
-    type: content
-  - name: Portfolio
-    id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
+purpose:
+  - type: internal
+    label: Skills
+    item: daced828-708c-4bfc-9060-ef17c68007f3
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: Contact
 collections:
   - index:
       path: /
@@ -48,12 +19,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Love something new every day
 description: Trial and error
-purpose:
-  - type: internal
-    label: Skills
-    item: daced828-708c-4bfc-9060-ef17c68007f3
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: Contact
+color:
+  saturation: 0.9937970887403935
+  brandStrength: 0.8475520885549486
+  rhythmicContrast: 0.1820328815374523
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  lightness: 0.5606211272533983
+name: Besiana Bandilli
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: ''
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
+typography_spectrum: 0.4725209
+layout_spectrum: 0.9277181
+content_rating:
+  adult: false
