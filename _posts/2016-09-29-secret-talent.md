@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:12:35.455Z'
+datePublished: '2016-10-01T00:16:57.817Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:12:34.941Z'
+dateModified: '2016-10-01T00:16:57.319Z'
 title: >-
   A good Experience focuses on the users needs and creates simple solutions for
   complex problems. My goal is to work with people who are highly motivated and
