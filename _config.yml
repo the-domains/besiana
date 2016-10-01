@@ -36,7 +36,7 @@ collections:
       format: rss
       number: 10
 title: Love something new every day
-description: ''
+description: Trial and error
 purpose:
   - type: internal
     label: Skills
