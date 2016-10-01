@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-10-01T13:09:16.783Z'
+datePublished: '2016-10-01T13:10:00.759Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-01T13:08:49.282Z'
+dateModified: '2016-10-01T13:10:00.098Z'
 title: I am passionate about
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
-_type: Blurb
+hasPage: true
+starred: false
+url: i-am-passionate-about/index.html
+_type: Article
 
 ---
 # I am passionate about
