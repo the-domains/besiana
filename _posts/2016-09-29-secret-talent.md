@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:10:19.167Z'
+datePublished: '2016-10-01T00:12:35.455Z'
 sourcePath: _posts/2016-09-29-secret-talent.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:10:18.584Z'
+dateModified: '2016-10-01T00:12:34.941Z'
 title: >-
   A good Experience focuses on the users needs and creates simple solutions for
   complex problems. My goal is to work with people who are highly motivated and
@@ -18,7 +18,7 @@ _type: Blurb
 
 ---
 # A good Experience focuses on the users needs and creates simple solutions for complex problems. My goal is to work with people who are highly motivated and share the same visions.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c4e1b00-2ba0-48fd-9364-cba9d8472087.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0f5bc2f-c8ac-43f9-89da-1bee531c2d4b.gif)
 
 ## Skills
 
