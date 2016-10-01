@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-10-01T19:50:59.027Z'
+datePublished: '2016-10-01T19:51:36.108Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-01T19:50:53.039Z'
+dateModified: '2016-10-01T19:51:35.504Z'
 title: Portfolio
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-10-01-portfolio.md
-_type: Blurb
+hasPage: true
+starred: false
+url: portfolio/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75553e42-ceaf-47fe-b8eb-172953911e5e.gif)
