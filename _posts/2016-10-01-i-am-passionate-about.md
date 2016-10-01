@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-10-01T19:20:01.721Z'
+datePublished: '2016-10-01T19:27:29.305Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T19:20:00.981Z'
+dateModified: '2016-10-01T19:27:28.784Z'
 title: I am passionate about
 publisher: {}
-description: ''
+description: >-
+  I want to work on new UX Solutions with People who inspire me to reach my true
+  potential, live a meaningful life and give back to society.
 starred: false
 url: i-am-passionate-about/index.html
 _type: Article
@@ -22,4 +24,6 @@ _type: Article
 3. Nature
 4. Learning about AI and VR
 
-> I want to work on new UX Solutions with People who inspire me to reach my true potential, live a meaningful life and give back to society.
+# "
+
+I want to work on new UX Solutions with People who inspire me to reach my true potential, live a meaningful life and give back to society.
