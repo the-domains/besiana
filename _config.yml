@@ -22,9 +22,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
 name: Besiana
 navigation:
-  - name: Skills
-    id: daced828-708c-4bfc-9060-ef17c68007f3
-    type: content
   - name: I am passionate about
     id: 7654100b-d584-4a76-b5e8-b712257325f8
     type: content
