@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T20:17:03.721Z'
+datePublished: '2016-10-02T20:38:11.275Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T20:17:03.184Z'
+dateModified: '2016-10-02T20:38:10.417Z'
 title: 'Passionate about UX, AI, VR, Science, Arts, Nature'
 publisher: {}
 description: ''
@@ -14,7 +14,7 @@ url: i-am-passionate-about/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/945fd640-a7dc-4430-9184-09ed2eb293ef.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/412cb0a3-7873-4451-968e-80ca677eb628.gif)
 
 # Passionate about **UX, AI, VR, Science, Arts, Nature**
 
