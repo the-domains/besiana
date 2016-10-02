@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T00:02:03.403Z'
+datePublished: '2016-10-02T00:22:24.292Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T00:02:02.508Z'
+dateModified: '2016-10-02T00:22:23.353Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -22,6 +22,9 @@ _type: Article
 
 ## Twint Transaction **Concept & Prototype**
 ![Concept, Design, Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef411931-d2fc-4b9a-a939-f0217b99d76d.gif)
+
+## **Creativity Methods** App Concept, Design, Prototype
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3c6fecb-3c6e-485c-aaa8-3a2d7511d270.gif)
 
 ## **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6088d0b8-8d9a-4f35-9466-f89d679edf77.gif)
