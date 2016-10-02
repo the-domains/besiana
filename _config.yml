@@ -44,16 +44,16 @@ navigation:
   - name: Portfolio
     id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
+name: BB
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
-name: BB
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
-typography_spectrum: 0.1583034
+typography_spectrum: 0.141577
 layout_spectrum: 0.9360812
 content_rating:
   adult: false
