@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T14:43:42.312Z'
+datePublished: '2016-10-02T16:31:40.430Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T14:43:41.721Z'
+dateModified: '2016-10-02T16:31:39.720Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -21,6 +21,9 @@ _type: Article
 
 ### **Facts about Procrastination **Illustration & Storytelling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c9dcd0-1de7-4bf8-9a57-0cd652011355.gif)
+
+### **Transaction Interaction ** Twint App
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6ddb474-edb6-46f3-a84c-358b2e3ca40d.gif)
 
 ### **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265ec4a2-c0d8-4dd3-adbd-2c85c162a5a1.gif)
