@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T00:43:33.771Z'
+datePublished: '2016-10-02T00:55:03.382Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T00:43:33.045Z'
+dateModified: '2016-10-02T00:55:02.547Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -36,4 +36,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f22732b-b7ff-472e-a5e9-1dba9e375f8b.gif)
 
 ## Editorial Design NZZ Wochenende
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c9e36c-5f51-4fd9-ae58-b065203e6a41.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc71ef05-4f42-417e-8cd9-442ded8caca7.gif)
