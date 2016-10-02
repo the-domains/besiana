@@ -1,3 +1,16 @@
+layout_spectrum: 0.9188911041710526
+typography_spectrum: 0.22523006610572338
+color:
+  saturation: 0.027741437312215567
+  brandStrength: 0.7584668777417392
+  rhythmicContrast: 0.42941265157423913
+  brandColors:
+    - '#000000'
+    - '#FFFF18'
+    - '#17FBFF'
+    - '#FF00FB'
+    - '#717307'
+  lightness: 0.9761966888327152
 title: Love something new every day
 github: true
 purpose:
@@ -20,17 +33,6 @@ collections:
       format: rss
       number: 10
 description: Trial and error
-color:
-  saturation: 0.4152285151649266
-  brandStrength: 0.3545249204616994
-  rhythmicContrast: 0.5305410323198885
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  lightness: 0.2720790258608758
 navigation:
   - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
@@ -53,7 +55,5 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
-typography_spectrum: 0.2750842974055558
-layout_spectrum: 0.5943847
 content_rating:
   adult: false
