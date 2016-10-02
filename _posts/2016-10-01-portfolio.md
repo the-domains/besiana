@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T00:55:03.382Z'
+datePublished: '2016-10-02T01:10:41.460Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T00:55:02.547Z'
+dateModified: '2016-10-02T01:10:40.645Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
