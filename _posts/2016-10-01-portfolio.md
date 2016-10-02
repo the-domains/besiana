@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T16:38:44.276Z'
+datePublished: '2016-10-02T16:43:19.660Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T16:38:43.624Z'
+dateModified: '2016-10-02T16:43:18.891Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -19,14 +19,14 @@ _type: Article
 ### **MCT Tour** & Travel Itinerary App
 ![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif)
 
-### **Facts about Procrastination **Illustration & Storytelling
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c9dcd0-1de7-4bf8-9a57-0cd652011355.gif)
-
 ### **Transaction Interaction** Twint App
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e6d69ec-0734-48b8-b1f2-864c13deef24.gif)
 
 ### **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265ec4a2-c0d8-4dd3-adbd-2c85c162a5a1.gif)
+
+### **Facts about Procrastination **Illustration & Storytelling
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee610437-244b-48e8-adf5-20637243b3ee.gif)
 
 ### **Editorial Design** NZZ Wochenende
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e63b7ba5-71ce-477b-9a91-f99ac5ba474d.gif)
