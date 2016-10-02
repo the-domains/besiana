@@ -13,24 +13,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Trial and error
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0.416368
+  rhythmicContrast: 1
   brandColors:
     - '#000000'
     - '#FE0080'
     - '#33FE00'
     - '#F4FD00'
     - '#808080'
-  rhythmicContrast: 1
+  lightness: 0.416368
 navigation:
   - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
@@ -53,7 +53,7 @@ author:
 name: BB
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
-typography_spectrum: 0.3704555949661881
+typography_spectrum: 0.1583034
 layout_spectrum: 0.9360812
 content_rating:
   adult: false
