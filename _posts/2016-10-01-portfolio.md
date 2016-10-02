@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T12:59:06.591Z'
+datePublished: '2016-10-02T13:02:37.271Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T12:58:59.023Z'
+dateModified: '2016-10-02T13:02:36.685Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -16,8 +16,7 @@ _type: Article
 ---
 # Portfolio
 
-## MCT Tour & Travel Itinerary App **Concept & Strategy**
-![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62602520-58d5-453b-b0ee-4155af4a0bbc.gif)
+## MCT Tour & Travel Itinerary App ![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62602520-58d5-453b-b0ee-4155af4a0bbc.gif)
 
 ## **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d294a1b-bb29-4902-bb05-d5ffccce4bf5.gif)
