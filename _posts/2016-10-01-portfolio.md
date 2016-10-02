@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T12:15:06.758Z'
+datePublished: '2016-10-02T12:59:06.591Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T12:15:05.935Z'
+dateModified: '2016-10-02T12:58:59.023Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -17,11 +17,7 @@ _type: Article
 # Portfolio
 
 ## MCT Tour & Travel Itinerary App **Concept & Strategy**
-![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/027fc9a8-6ec0-4cca-a827-6608e524e2b6.gif)
-![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/715724cb-57cf-4be2-a01a-7193b8507653.gif)
-
-## Twint Transaction **Concept & Prototype**
-![Concept, Design, Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef411931-d2fc-4b9a-a939-f0217b99d76d.gif)
+![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62602520-58d5-453b-b0ee-4155af4a0bbc.gif)
 
 ## **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d294a1b-bb29-4902-bb05-d5ffccce4bf5.gif)
