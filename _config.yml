@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Trial and error
 color:
   saturation: 0.4152285151649266
@@ -54,6 +54,6 @@ name: BB
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 typography_spectrum: 0.2750842974055558
-layout_spectrum: 0.8799282
+layout_spectrum: 1
 content_rating:
   adult: false
