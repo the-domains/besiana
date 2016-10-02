@@ -21,7 +21,7 @@ collections:
       path: '/:title/'
 description: Trial and error
 color:
-  saturation: 0.02774144
+  saturation: 1
   brandStrength: 1
   lightness: 0.9761967
   brandColors:
@@ -30,7 +30,7 @@ color:
     - '#17FBFF'
     - '#FF00FB'
     - '#0D94AF'
-  rhythmicContrast: 0.6135005
+  rhythmicContrast: 1
 navigation:
   - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
@@ -44,13 +44,13 @@ navigation:
   - name: Portfolio
     id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
+name: BB
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
-name: BB
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 typography_spectrum: 0.4880525
