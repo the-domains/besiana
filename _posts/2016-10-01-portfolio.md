@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T00:28:43.069Z'
+datePublished: '2016-10-02T00:43:33.771Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T00:28:42.215Z'
+dateModified: '2016-10-02T00:43:33.045Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -34,3 +34,6 @@ _type: Article
 
 ## Facts about Procrastination Illustration & Storytelling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f22732b-b7ff-472e-a5e9-1dba9e375f8b.gif)
+
+## Editorial Design NZZ Wochenende
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c9e36c-5f51-4fd9-ae58-b065203e6a41.gif)
