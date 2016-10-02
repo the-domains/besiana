@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T23:26:20.434Z'
+datePublished: '2016-10-02T00:25:39.764Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T23:26:19.788Z'
+dateModified: '2016-10-02T00:25:38.851Z'
 title: I am passionate about
 publisher: {}
 description: ''
@@ -15,7 +15,6 @@ _type: Article
 
 ---
 # I am passionate about
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4ebffab-d5a9-4be0-94e5-dd72af0d77ee.gif)
 
 ### **UXD, AI, VR, Science, Arts, Nature, Cats**
 
