@@ -13,24 +13,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: Trial and error
 color:
   saturation: 1
   brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#000000'
-    - '#FE0080'
-    - '#33FE00'
-    - '#F4FD00'
-    - '#808080'
   lightness: 0.416368
+  brandColors:
+    - '#FE0000'
+    - '#FE00F6'
+    - '#0BFF01'
+    - '#FDFE02'
+    - '#011EFE'
+  rhythmicContrast: 1
 navigation:
   - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
