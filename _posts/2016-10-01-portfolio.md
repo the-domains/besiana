@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T23:21:04.735Z'
+datePublished: '2016-10-02T00:02:03.403Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T23:21:04.131Z'
+dateModified: '2016-10-02T00:02:02.508Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -28,3 +28,9 @@ _type: Article
 
 ## **Mosaix Tablet App** Concept, Prototype, Design
 ![Concept, Design, Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a35fcdd-8f65-4f79-ba39-d921631da701.gif)
+
+## Facts about Procrastination Illustration & Storytelling
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f22732b-b7ff-472e-a5e9-1dba9e375f8b.gif)
+
+## Fuck **Salad Day **Campaigning for less Meat Consumption
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09655579-8e4f-432f-b629-dc5163b8a8f1.gif)
