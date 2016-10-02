@@ -25,11 +25,11 @@ color:
   brandStrength: 1
   lightness: 0.416368
   brandColors:
-    - '#FE0000'
-    - '#FE00F6'
-    - '#0BFF01'
-    - '#FDFE02'
-    - '#011EFE'
+    - '#000000'
+    - '#FE0080'
+    - '#33FE00'
+    - '#F4FD00'
+    - '#808080'
   rhythmicContrast: 1
 navigation:
   - name: About me
@@ -46,11 +46,11 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
+name: BB
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
-name: BB
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 typography_spectrum: 0.141577
