@@ -22,7 +22,7 @@ collections:
 description: Trial and error
 color:
   saturation: 1
-  brandStrength: 0.8751493
+  brandStrength: 1
   lightness: 0.416368
   brandColors:
     - '#000000'
@@ -30,7 +30,7 @@ color:
     - '#33FE00'
     - '#F4FD00'
     - '#808080'
-  rhythmicContrast: 0.9026284
+  rhythmicContrast: 1
 navigation:
   - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
