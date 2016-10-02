@@ -1,19 +1,19 @@
-typography_spectrum: 0.4725209
-content_rating:
-  adult: false
+layout_spectrum: 0.5268552410416305
+typography_spectrum: 0.27508429740555584
 color:
-  saturation: 0.9937970887403935
-  brandStrength: 0.8475520885549486
-  rhythmicContrast: 0.1820328815374523
+  saturation: 0.41522851516492665
+  brandStrength: 0.35452492046169937
+  rhythmicContrast: 0.5305410323198885
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  lightness: 0.5606211272533983
+  lightness: 0.27207902586087584
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.9277181
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
