@@ -19,7 +19,7 @@ author:
   email: bandillib@gmail.com
   url: ''
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd1c489-fd11-493f-9d0b-9d1cfe4810be.gif
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 name: BB
 navigation:
   - name: About me
@@ -35,7 +35,7 @@ navigation:
     id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
     type: content
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8228f7ee-07de-4d17-a8df-d861dd631da4.gif
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
 collections:
   - index:
       path: /
