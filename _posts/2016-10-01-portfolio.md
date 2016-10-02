@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-02T16:43:19.660Z'
+datePublished: '2016-10-02T16:53:31.396Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-02T16:43:18.891Z'
+dateModified: '2016-10-02T16:53:30.788Z'
 title: Portfolio
 publisher: {}
 description: Concept & Strategy
@@ -19,7 +19,7 @@ _type: Article
 ### **MCT Tour** & Travel Itinerary App
 ![Concept & Strategy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif)
 
-### **Transaction Interaction** Twint App
+### **Payment Interaction** Twint App
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e6d69ec-0734-48b8-b1f2-864c13deef24.gif)
 
 ### **Mosaix Game** Paper Prototype
