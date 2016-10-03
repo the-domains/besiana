@@ -22,9 +22,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 name: BB
 navigation:
-  - name: Passion
-    id: 61afb10a-1ffe-4ff6-ba67-6191c2ac40ed
-    type: content
   - name: Skills
     id: 1e7335fc-e550-4745-8255-c5bbc68d54bc
     type: content
