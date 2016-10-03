@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T18:57:07.779Z'
+datePublished: '2016-10-03T19:04:19.293Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T18:57:07.162Z'
+dateModified: '2016-10-03T19:04:18.726Z'
 title: Portfolio
 publisher: {}
 description: MCT Tour & Travel Itinerary App
@@ -16,7 +16,7 @@ _type: Article
 ---
 # Portfolio
 
-**MCT Tour** & Travel Itinerary App
+**MCT **Tour & Travel Itinerary App
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif)
 
 **Twint App** Payment Interaction
