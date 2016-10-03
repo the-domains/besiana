@@ -34,7 +34,8 @@ navigation:
   - name: Portfolio
     id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3084718c-3f53-47a4-8e0e-d9fd33676854.gif
 collections:
   - index:
       path: /
