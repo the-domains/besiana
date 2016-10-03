@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T17:10:07.612Z'
+datePublished: '2016-10-03T17:12:58.276Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T17:10:06.946Z'
+dateModified: '2016-10-03T17:12:57.225Z'
 title: Portfolio
 publisher: {}
 description: MCT Tour & Travel Itinerary App
@@ -25,7 +25,7 @@ Twint App **Payment Interaction**
 **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265ec4a2-c0d8-4dd3-adbd-2c85c162a5a1.gif)
 
-**Procrastination Comic book **Illustration & Storytelling
+**Procrastination Comic **Illustration & Storytelling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee610437-244b-48e8-adf5-20637243b3ee.gif)
 
 **Editorial Design** NZZ Wochenende
