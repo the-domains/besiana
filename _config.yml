@@ -21,6 +21,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 name: BB
+navigation:
+  - name: About
+    id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
 collections:
