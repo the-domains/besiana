@@ -4,9 +4,9 @@
         <description><![CDATA[Love something new every day]]></description>
         <link>https://thegrid.ai/besiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 14:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 14:46:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/besiana/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 14:45:04 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 14:46:35 GMT</pubDate>
         <item>
             <title><![CDATA[Besiana Bandilli UX Designer]]></title>
             <description><![CDATA[<article><h1>Besiana Bandilli UX Designer</h1><h2>It takes no skills to make something crappy. Skills are only required to make something great. Being a great Designer means, understanding how people think and act. My goal is to work with people who are highly motivated and share the same vision.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52f7d917-3d1f-41a0-9dd8-a064dc39d109.gif"></article>]]></description>
@@ -22,18 +22,18 @@
             <pubDate>Mon, 03 Oct 2016 14:41:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portfolio]]></title>
-            <description><![CDATA[<article><h1>Portfolio</h1><h2>MCT Tour & Travel Itinerary App</h2><p>Concept & Strategy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif"></article>]]></description>
-            <link>https://thegrid.ai/besiana/portfolio/index.html</link>
-            <guid isPermaLink="false">2b959a92-20d9-461f-b265-ae1bdcc3e4e9</guid>
-            <pubDate>Mon, 03 Oct 2016 14:45:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Skills]]></title>
             <description><![CDATA[<article><h1>Skills</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e200fa3-0316-4c58-950b-99e62ed3ddb9.gif"></article>]]></description>
             <link>https://thegrid.ai/besiana/skills/index.html</link>
             <guid isPermaLink="false">1e7335fc-e550-4745-8255-c5bbc68d54bc</guid>
             <pubDate>Mon, 03 Oct 2016 14:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<article><h1>Portfolio</h1><h2>MCT Tour & Travel Itinerary App</h2><p>Concept & Strategy</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif"></article>]]></description>
+            <link>https://thegrid.ai/besiana/portfolio/index.html</link>
+            <guid isPermaLink="false">2b959a92-20d9-461f-b265-ae1bdcc3e4e9</guid>
+            <pubDate>Mon, 03 Oct 2016 14:46:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
