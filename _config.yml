@@ -31,6 +31,9 @@ navigation:
   - name: Skills
     id: 1e7335fc-e550-4745-8255-c5bbc68d54bc
     type: content
+  - name: Portfolio
+    id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
 collections:
