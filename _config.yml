@@ -1,25 +1,6 @@
-title: Love something new every day
-github: true
-purpose:
-  - type: internal
-    label: Skills
-    item: daced828-708c-4bfc-9060-ef17c68007f3
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: Contact
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: Trial and error
+typography_spectrum: 0.1547192
+content_rating:
+  adult: false
 color:
   saturation: 1
   brandStrength: 0.9086021
@@ -31,6 +12,15 @@ color:
     - '#FF00FB'
     - '#0D94AF'
   lightness: 0.4928315
+github: true
+layout_spectrum: 0.9181601
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
+name: BB
 navigation:
   - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
@@ -46,14 +36,24 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
-author:
-  name: Besiana Bandilli
-  email: bandillib@gmail.com
-  url: ''
-name: BB
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
-typography_spectrum: 0.4402629
-layout_spectrum: 0.9181601
-content_rating:
-  adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Love something new every day
+description: Trial and error
+purpose:
+  - type: internal
+    label: Skills
+    item: daced828-708c-4bfc-9060-ef17c68007f3
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: Contact me
