@@ -51,9 +51,6 @@ collections:
 title: Love something new every day
 description: Trial and error
 purpose:
-  - type: internal
-    label: Skills
-    item: 1e7335fc-e550-4745-8255-c5bbc68d54bc
   - type: contact
     url: 'mailto:bandillib@gmail.com'
     label: Contact me
