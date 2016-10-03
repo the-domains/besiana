@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Trial and error
 color:
   saturation: 1
@@ -46,14 +46,14 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51b29a98-89c1-4605-8ed3-805c5b71b0aa.gif
-name: BB
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
+name: BB
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/91d364b0-e385-437c-be61-ed8fb12477cd.gif
 typography_spectrum: 0.141577
-layout_spectrum: 0.6123058
+layout_spectrum: 0.5812425
 content_rating:
   adult: false
