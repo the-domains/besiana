@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T16:39:14.134Z'
+datePublished: '2016-10-04T17:51:53.573Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T16:39:13.398Z'
+dateModified: '2016-10-04T17:51:52.914Z'
 title: 'Passionate about UX/UI, AI, VR, Science, Art, Nature'
 publisher: {}
 description: ''
@@ -17,4 +17,4 @@ _type: Article
 # Passionate about **UX/UI, AI, VR, Science, Art, Nature**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/412cb0a3-7873-4451-968e-80ca677eb628.gif)
 
-### My Mission is to build and design easy-to-understand interfaces, with people who inspire me to reach my true potential, live a meaningful life and give back to society.
+### My Mission is to build and design easy-to-understand interfaces. By working with people who inspire me to live a meaningful life and give back to society.
