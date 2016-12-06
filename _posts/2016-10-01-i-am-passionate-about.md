@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-06T00:29:00.682Z'
+datePublished: '2016-12-06T00:31:18.598Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:28:59.610Z'
+dateModified: '2016-12-06T00:31:17.522Z'
 title: About Me
 publisher: {}
-description: ''
+description: Art Direction NZZ
 starred: false
 url: i-am-passionate-about/index.html
 _type: Article
@@ -22,6 +22,8 @@ _type: Article
 ### My Mission is to build and design easy-to-understand interfaces. By working with people who inspire me to live a meaningful life and give back to society.
 
 # Experience
+
+Art Direction NZZ
 
 # Education
 
