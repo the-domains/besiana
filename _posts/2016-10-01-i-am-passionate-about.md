@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:27:28.376Z'
+datePublished: '2016-12-06T00:27:34.602Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:27:27.281Z'
+dateModified: '2016-12-06T00:27:33.734Z'
 title: 'Passionate about UX/UI, AI, VR, Science, Art, Nature'
 publisher: {}
 description: 2014 – 2017
@@ -31,7 +31,7 @@ _type: Article
 
 #### **Institut für Design Hamburg**
 
-##### Bachelor, [Graphic Design][0]
+##### Bachelor, Graphic Design
 
 2003 -- 2006
 
@@ -44,5 +44,3 @@ _type: Article
 * User Interface Design
 * Development
 * Editorial Design
-
-[0]: https://www.linkedin.com/vsearch/p?keywords=Graphic+Design&trk=prof-edu-field_of_study "Mitglieder mit diesem Stichwort finden"
