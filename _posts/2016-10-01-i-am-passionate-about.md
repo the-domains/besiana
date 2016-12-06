@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:33:13.905Z'
+datePublished: '2016-12-06T00:33:22.159Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:33:13.152Z'
+dateModified: '2016-12-06T00:33:21.567Z'
 title: About Me
 publisher: {}
 description: ''
@@ -22,6 +22,10 @@ _type: Article
 ### My Mission is to build and design easy-to-understand interfaces. By working with people who inspire me to live a meaningful life and give back to society.
 
 # Experience
+
+#### **Neue Zürcher Zeitung**  
+Art Direction  
+since 2009
 
 #### **Neue Zürcher Zeitung**  
 Art Direction  
