@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:32:51.145Z'
+datePublished: '2016-12-06T00:33:07.162Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:32:50.199Z'
+dateModified: '2016-12-06T00:33:06.508Z'
 title: About Me
 publisher: {}
 description: Art Direction NZZsince 2009
@@ -28,7 +28,7 @@ since 2009
 
 #### **Neue Zürcher Zeitung**  
 Art Direction  
-2014 -- 2017
+since 2009
 
 # Education
 
