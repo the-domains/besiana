@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:31:57.407Z'
+datePublished: '2016-12-06T00:32:31.025Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:31:56.724Z'
+dateModified: '2016-12-06T00:32:29.942Z'
 title: About Me
 publisher: {}
 description: Art Direction NZZsince 2009
@@ -25,6 +25,10 @@ _type: Article
 
 **Art Direction NZZ**  
 since 2009
+
+#### **Schule für Gestaltung Bern**  
+Interactive Designer UX, Computer- und Informationswissenschaften  
+2014 -- 2017
 
 # Education
 
