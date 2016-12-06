@@ -1,5 +1,6 @@
-layout_spectrum: 0.9615778466598084
 typography_spectrum: 1
+content_rating:
+  adult: false
 color:
   saturation: 0.31726056268143626
   brandStrength: 0.17200378095574384
@@ -11,12 +12,11 @@ color:
     - '#3F47CC'
     - '#979C96'
   lightness: 0.8470531871884434
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
+layout_spectrum: 0.9615778466598084
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
