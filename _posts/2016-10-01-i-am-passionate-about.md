@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:28:19.286Z'
+datePublished: '2016-12-06T00:28:26.425Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:28:18.526Z'
+dateModified: '2016-12-06T00:28:25.798Z'
 title: About Me
 publisher: {}
 description: 2014 – 2017
@@ -17,7 +17,7 @@ _type: Article
 ---
 # About Me
 
-### Passionate about **UX/UI, AI, VR, Science, Art, Nature**
+### I am passionate about **UX/UI, AI, VR, Science, Art, Nature**
 
 ### My Mission is to build and design easy-to-understand interfaces. By working with people who inspire me to live a meaningful life and give back to society.
 
