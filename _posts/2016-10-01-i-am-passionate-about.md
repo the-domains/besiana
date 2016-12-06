@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-06T00:31:27.628Z'
+datePublished: '2016-12-06T00:31:44.989Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:31:26.667Z'
+dateModified: '2016-12-06T00:31:44.409Z'
 title: About Me
 publisher: {}
-description: Schule für Gestaltung Bern Art Direction NZZ
+description: Art Direction NZZ Schule für Gestaltung Bern Art Direction NZZ
 starred: false
 url: i-am-passionate-about/index.html
 _type: Article
@@ -23,7 +23,7 @@ _type: Article
 
 # Experience
 
-**Schule für Gestaltung Bern **Art Direction NZZ
+**Art Direction NZZ Schule für Gestaltung Bern **Art Direction NZZ
 
 # Education
 
