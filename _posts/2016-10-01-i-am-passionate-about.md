@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:28:26.425Z'
+datePublished: '2016-12-06T00:28:48.255Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:28:25.798Z'
+dateModified: '2016-12-06T00:28:47.392Z'
 title: About Me
 publisher: {}
 description: 2014 – 2017
@@ -25,9 +25,8 @@ _type: Article
 
 # Education
 
-#### **Schule für Gestaltung Bern**
-
-##### Interactive Designer UX, Computer- und Informationswissenschaften
+#### **Schule für Gestaltung Bern**  
+Interactive Designer UX, Computer- und Informationswissenschaften
 
 2014 -- 2017
 
