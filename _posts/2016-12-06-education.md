@@ -1,16 +1,18 @@
 ---
-datePublished: '2016-12-06T00:39:34.134Z'
+datePublished: '2016-12-06T01:56:54.652Z'
+sourcePath: _posts/2016-12-06-education.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-06T00:39:34.134Z'
-dateModified: '2016-12-06T00:39:33.137Z'
+dateModified: '2016-12-06T01:56:54.225Z'
 title: Education
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-12-06-education.md
-_type: Blurb
+url: education/index.html
+_type: Article
 
 ---
 # Education
