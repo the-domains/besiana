@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-06T00:22:24.989Z'
+datePublished: '2016-12-06T00:22:31.330Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:22:24.470Z'
+dateModified: '2016-12-06T00:22:30.350Z'
 title: 'Passionate about UX/UI, AI, VR, Science, Art, Nature'
 publisher: {}
-description: Education
+description: ''
 starred: false
 url: i-am-passionate-about/index.html
 _type: Article
@@ -21,7 +21,7 @@ _type: Article
 
 # Experience
 
-Education
+# Education
 
 # Skills
 
