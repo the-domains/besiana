@@ -24,10 +24,6 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
 name: BB
-navigation:
-  - name: Experience
-    id: 50eb32aa-6faa-4dff-811f-477b16c2191c
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 collections:
