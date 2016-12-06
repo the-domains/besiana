@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:34:03.065Z'
+datePublished: '2016-12-06T00:34:15.606Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:34:02.350Z'
+dateModified: '2016-12-06T00:34:15.071Z'
 title: About Me
 publisher: {}
 description: ''
@@ -25,7 +25,7 @@ _type: Article
 
 #### **UX / UI**  
 studying  
-since 2009
+since 2014
 
 #### **Neue Zürcher Zeitung**  
 Art Direction  
