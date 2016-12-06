@@ -1,22 +1,22 @@
+layout_spectrum: 0.9615778466598084
 typography_spectrum: 1
+color:
+  saturation: 0.31726056268143626
+  brandStrength: 0.17200378095574384
+  rhythmicContrast: 0.49227632789208675
+  brandColors:
+    - '#FFFFFF'
+    - '#FBFC00'
+    - '#00FCFD'
+    - '#3F47CC'
+    - '#979C96'
+  lightness: 0.8470531871884434
 content_rating:
   adult: false
-color:
-  saturation: 0.6281657787167126
-  brandStrength: 0.11495371119912234
-  rhythmicContrast: 0.4035479023296497
-  brandColors:
-    - '#B26AAA'
-    - '#EF3526'
-    - '#FFF3FF'
-    - '#E1B955'
-    - '#6ACCDB'
-  lightness: 0.8728137681166651
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
-layout_spectrum: 0.1543496486389696
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
