@@ -1,10 +1,27 @@
-typography_spectrum: 1
-content_rating:
-  adult: false
+title: Learn something new every day
+content: []
+github: true
+purpose:
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: Contact me
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Trial and error
 color:
-  saturation: 0.31726056268143626
-  brandStrength: 0.17200378095574384
-  rhythmicContrast: 0.49227632789208675
+  saturation: 0.3172605626814363
+  brandStrength: 0.1720037809557438
+  rhythmicContrast: 0.4922763278920868
   brandColors:
     - '#FFFFFF'
     - '#FBFC00'
@@ -12,36 +29,19 @@ color:
     - '#3F47CC'
     - '#979C96'
   lightness: 0.8470531871884434
-github: true
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
-layout_spectrum: 0.9615778466598084
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
+name: BB
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
-name: BB
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Learn something new every day
-content: []
-description: Trial and error
-purpose:
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: Contact me
+typography_spectrum: 0.4080048
+layout_spectrum: 0.9615778466598084
+content_rating:
+  adult: false
