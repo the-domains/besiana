@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T00:26:59.071Z'
+datePublished: '2016-12-06T00:27:04.625Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:26:58.491Z'
+dateModified: '2016-12-06T00:27:03.896Z'
 title: 'Passionate about UX/UI, AI, VR, Science, Art, Nature'
 publisher: {}
 description: 2014 – 2017
@@ -23,15 +23,15 @@ _type: Article
 
 # Education
 
-#### **[Schule für Gestaltung Bern][0]**
+#### **Schule für Gestaltung Bern**
 
 ##### Interactive Designer UX, Computer- und Informationswissenschaften
 
 2014 -- 2017
 
-#### **[Institut für Design Hamburg][1]**
+#### **[Institut für Design Hamburg][0]**
 
-##### Bachelor, [Graphic Design][2]
+##### Bachelor, [Graphic Design][1]
 
 2003 -- 2006
 
@@ -45,6 +45,5 @@ _type: Article
 * Development
 * Editorial Design
 
-[0]: https://www.linkedin.com/edu/alumni?name=Schule+f%C3%BCr+Gestaltung+Bern&trk=prof-edu-school-name "Finden Sie weitere Mitglieder, die Schule für Gestaltung Bern besucht haben."
-[1]: https://www.linkedin.com/edu/alumni?name=Institut+f%C3%BCr+Design+Hamburg&trk=prof-edu-school-name "Finden Sie weitere Mitglieder, die Institut für Design Hamburg besucht haben."
-[2]: https://www.linkedin.com/vsearch/p?keywords=Graphic+Design&trk=prof-edu-field_of_study "Mitglieder mit diesem Stichwort finden"
+[0]: https://www.linkedin.com/edu/alumni?name=Institut+f%C3%BCr+Design+Hamburg&trk=prof-edu-school-name "Finden Sie weitere Mitglieder, die Institut für Design Hamburg besucht haben."
+[1]: https://www.linkedin.com/vsearch/p?keywords=Graphic+Design&trk=prof-edu-field_of_study "Mitglieder mit diesem Stichwort finden"
