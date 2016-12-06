@@ -25,9 +25,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
 name: BB
 navigation:
-  - name: Portfolio
-    id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
-    type: content
   - name: Skills
     id: 1e7335fc-e550-4745-8255-c5bbc68d54bc
     type: content
