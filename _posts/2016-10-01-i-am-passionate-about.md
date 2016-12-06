@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-06T00:31:51.975Z'
+datePublished: '2016-12-06T00:31:57.407Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:31:51.020Z'
+dateModified: '2016-12-06T00:31:56.724Z'
 title: About Me
 publisher: {}
-description: Art Direction NZZArt Direction NZZ
+description: Art Direction NZZsince 2009
 starred: false
 url: i-am-passionate-about/index.html
 _type: Article
@@ -24,7 +24,7 @@ _type: Article
 # Experience
 
 **Art Direction NZZ**  
-Art Direction NZZ
+since 2009
 
 # Education
 
