@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-06T00:28:52.963Z'
+datePublished: '2016-12-06T00:29:00.682Z'
 sourcePath: _posts/2016-10-01-i-am-passionate-about.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-10-04T18:01:09.287Z'
-dateModified: '2016-12-06T00:28:52.220Z'
+dateModified: '2016-12-06T00:28:59.610Z'
 title: About Me
 publisher: {}
-description: 2003 – 2006
+description: ''
 starred: false
 url: i-am-passionate-about/index.html
 _type: Article
@@ -29,10 +29,8 @@ _type: Article
 Interactive Designer UX, Computer- und Informationswissenschaften  
 2014 -- 2017
 
-#### **Institut für Design Hamburg**
-
-##### Bachelor, Graphic Design
-
+#### **Institut für Design Hamburg**  
+Bachelor, Graphic Design  
 2003 -- 2006
 
 # Skills
