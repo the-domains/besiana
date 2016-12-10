@@ -19,16 +19,16 @@ collections:
       path: '/:title/'
 description: Trial and error
 color:
-  saturation: 0.3172605626814363
+  saturation: 0.829749
   brandStrength: 1
-  lightness: 0.8470531871884434
+  lightness: 0.8470532
   brandColors:
     - '#FFFFFF'
     - '#FBFC00'
     - '#00FCFD'
     - '#3F47CC'
     - '#979C96'
-  rhythmicContrast: 0.4922763278920868
+  rhythmicContrast: 0.8142174
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 author:
