@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-12-10T22:50:56.613Z'
+datePublished: '2016-12-10T22:54:48.774Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-10T22:50:54.904Z'
+dateModified: '2016-12-10T22:54:48.298Z'
 title: Portfolio
 publisher: {}
-description: MCT Tour & Travel Itinerary App
+description: 'Instep: Tour & Travel Itinerary App Client:  MCT Agency GmbH Berlin'
 starred: false
 datePublishedOriginal: '2016-10-03T19:04:19.293Z'
 url: portfolio/index.html
@@ -17,7 +17,8 @@ _type: Article
 ---
 # Portfolio
 
-**MCT **Tour & Travel Itinerary App
+**Instep: **Tour & Travel Itinerary App  
+**Client:** MCT Agency GmbH Berlin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif)
 
 **Twint App** Payment Interaction
