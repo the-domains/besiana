@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-06T01:48:50.631Z'
+datePublished: '2016-12-10T13:17:31.149Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T01:48:49.942Z'
+dateModified: '2016-12-10T13:17:30.434Z'
 title: Portfolio
 publisher: {}
 description: MCT Tour & Travel Itinerary App
-datePublishedOriginal: '2016-10-03T19:04:19.293Z'
 starred: false
+datePublishedOriginal: '2016-10-03T19:04:19.293Z'
 url: portfolio/index.html
 _type: Article
 
