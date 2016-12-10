@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-10T15:35:03.220Z'
-datePublished: '2016-12-10T15:35:04.838Z'
+dateModified: '2016-12-10T15:38:42.966Z'
+datePublished: '2016-12-10T15:38:43.728Z'
 title: Instep Itinerary App
 author: []
 publisher: {}
@@ -44,5 +44,4 @@ Quick push notifications if an error occurred.
 
 **Map**  
 Map and route planning for productive navigation.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/950d638d-2ac1-4893-9a04-91d6b7b5c119.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a83fd4d9-defc-4da9-a9e0-96a4c20da97f.jpg)
