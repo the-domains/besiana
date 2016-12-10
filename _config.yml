@@ -1,6 +1,23 @@
-typography_spectrum: 0.5848267
-content_rating:
-  adult: false
+title: Learn something new every day
+content: []
+github: true
+purpose:
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: Contact me
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: Besiana Bandilli UX Designer
 color:
   saturation: 1
   brandStrength: 1
@@ -12,18 +29,6 @@ color:
     - '#000000'
     - '#A9E645'
   lightness: 1
-github: true
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
-layout_spectrum: 0.9611708
-author:
-  name: Besiana Bandilli
-  email: bandillib@gmail.com
-  url: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
-name: BB
 navigation:
   - name: About
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
@@ -36,22 +41,17 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Learn something new every day
-content: []
-description: Besiana Bandilli UX Designer
-purpose:
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: Contact me
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: ''
+name: BB
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
+typography_spectrum: 0.5848267
+layout_spectrum: 0.7891278
+content_rating:
+  adult: false
