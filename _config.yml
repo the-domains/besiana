@@ -31,6 +31,9 @@ navigation:
   - name: 'About '
     id: 61afb10a-1ffe-4ff6-ba67-6191c2ac40ed
     type: content
+  - name: Contact
+    id: 0925f154-d8b1-4888-a404-8777aabfe22e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 collections:
