@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-12-10T23:04:10.632Z'
+datePublished: '2016-12-10T23:06:17.456Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-10T23:04:10.089Z'
+dateModified: '2016-12-10T23:06:16.885Z'
 title: Portfolio
 publisher: {}
-description: 'Instep: Tour & Travel Itinerary AppClient: MCT Agency GmbH Berlin'
+description: Instep Tour & Travel Itinerary App for MCT Agency GmbH Berlin
 starred: false
 datePublishedOriginal: '2016-10-03T19:04:19.293Z'
 url: portfolio/index.html
@@ -17,10 +17,7 @@ _type: Article
 ---
 # Portfolio
 
-**Instep: **Tour & Travel Itinerary App  
-**Client:** MCT Agency GmbH Berlin
-
-Instep is an extensible tour itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours.
+**Instep **Tour & Travel Itinerary App for MCT Agency GmbH Berlin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif)
 
 Payment Transaction  
