@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-10T23:06:17.456Z'
+datePublished: '2016-12-10T23:07:56.321Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-10T23:06:16.885Z'
+dateModified: '2016-12-10T23:07:54.590Z'
 title: Portfolio
 publisher: {}
 description: Instep Tour & Travel Itinerary App for MCT Agency GmbH Berlin
@@ -20,8 +20,7 @@ _type: Article
 **Instep **Tour & Travel Itinerary App for MCT Agency GmbH Berlin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63bfeba-eabf-45ae-934a-e3ea348bfc5e.gif)
 
-Payment Transaction  
-**Client:** Twint
+**Twint** Payment Transaction
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e6d69ec-0734-48b8-b1f2-864c13deef24.gif)
 
 **Mosaix Game** Paper Prototype
