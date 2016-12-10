@@ -28,7 +28,7 @@ navigation:
   - name: Portfolio
     id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
     type: content
-  - name: About Me
+  - name: 'About '
     id: 61afb10a-1ffe-4ff6-ba67-6191c2ac40ed
     type: content
 favicon: >-
