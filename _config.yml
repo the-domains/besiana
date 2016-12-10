@@ -24,10 +24,10 @@ color:
   lightness: 0.8470532
   brandColors:
     - '#FFFFFF'
-    - '#FBFC00'
-    - '#00FCFD'
-    - '#3F47CC'
-    - '#979C96'
+    - '#27A448'
+    - '#FBEE00'
+    - '#151515'
+    - '#636363'
   rhythmicContrast: 0.8142174
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
