@@ -28,11 +28,11 @@ navigation:
   - name: About
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
     type: content
-  - name: Contact
-    id: 0925f154-d8b1-4888-a404-8777aabfe22e
-    type: content
   - name: Portfolio
     id: 2b959a92-20d9-461f-b265-ae1bdcc3e4e9
+    type: content
+  - name: Contact
+    id: 0925f154-d8b1-4888-a404-8777aabfe22e
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
