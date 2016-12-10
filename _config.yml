@@ -11,24 +11,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: Trial and error
 color:
-  saturation: 0.829749
+  saturation: 1
   brandStrength: 1
-  lightness: 0.8470532
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#27A448'
     - '#FBEE00'
     - '#151515'
     - '#636363'
-  rhythmicContrast: 0.8142174
+  rhythmicContrast: 1
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 author:
