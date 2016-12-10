@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-10T15:38:42.966Z'
-datePublished: '2016-12-10T15:38:43.728Z'
+dateModified: '2016-12-10T15:40:54.950Z'
+datePublished: '2016-12-10T15:40:55.746Z'
 title: Instep Itinerary App
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e8fa0b-948b-4336-b06a-4ed98112a96c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84a9c318-c74c-4425-a7cb-18d294aeea56.jpg)
 
-Instep is an extensible tour planning tool, that enables Concert Tour Management Agencies, to organise and plan entire tours. Creating and managing an infinite number of travel-parties and time-boxes.
+Instep is an extensible tour planning tool, that enables Concert Tour Management Agencies, to organise and plan entire tours. 
 
 **Tour Planning**  
 Simple tour planning by creating as many travel-parties and time-boxes as you need.
