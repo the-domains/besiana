@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-10T17:26:02.252Z'
-datePublished: '2016-12-10T17:26:02.825Z'
+dateModified: '2016-12-10T22:45:23.163Z'
+datePublished: '2016-12-10T22:45:23.769Z'
 title: Instep Itinerary Tool
 author: []
 publisher: {}
@@ -20,7 +20,8 @@ _type: Article
 
 ---
 
-Instep is an extensible tour itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
+Instep is an extensible tour itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
 
 **Tour Planning**  
 Simple tour planning by creating as many travel-parties and time-boxes as you need.  
@@ -34,4 +35,3 @@ If a problem occurs in this example "The driver is delayed by 30 minutes", the a
 
 **Map**  
 Map and route planning for productive navigation. Use the map view to get information about your booked accommodations, the next show locations. or information about the travel distances. If you enter additional personal data, you will be offered individual offers for the respective profiles.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c1ae95-69f0-47dd-8916-e713dc9cc45e.gif)
