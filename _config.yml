@@ -23,11 +23,11 @@ color:
   brandStrength: 1
   lightness: 1
   brandColors:
+    - '#FFFC00'
     - '#FFFFFF'
-    - '#27A448'
-    - '#FBEE00'
-    - '#151515'
-    - '#636363'
+    - '#03BBCB'
+    - '#000000'
+    - '#A9E645'
   rhythmicContrast: 1
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
