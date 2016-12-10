@@ -20,15 +20,15 @@ collections:
 description: Trial and error
 color:
   saturation: 0.3172605626814363
-  brandStrength: 0.1720037809557438
-  rhythmicContrast: 0.4922763278920868
+  brandStrength: 1
+  lightness: 0.8470531871884434
   brandColors:
     - '#FFFFFF'
     - '#FBFC00'
     - '#00FCFD'
     - '#3F47CC'
     - '#979C96'
-  lightness: 0.8470531871884434
+  rhythmicContrast: 0.4922763278920868
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 author:
