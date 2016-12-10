@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-10T13:38:15.492Z'
+datePublished: '2016-12-10T22:48:51.731Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-10T13:38:13.837Z'
+dateModified: '2016-12-10T22:48:50.793Z'
 title: Portfolio
 publisher: {}
 description: MCT Tour & Travel Itinerary App
@@ -26,7 +26,7 @@ _type: Article
 **Mosaix Game** Paper Prototype
 ![Paper Prototype](https://the-grid-user-content.s3-us-west-2.amazonaws.com/265ec4a2-c0d8-4dd3-adbd-2c85c162a5a1.gif)
 
-**Procrastination Comic Book **Illustration & Storytelling
+**Procrastination Comic Book **Illustration
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee610437-244b-48e8-adf5-20637243b3ee.gif)
 
 **Editorial Design** NZZ Wochenende
