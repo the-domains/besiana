@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-12T21:25:27.423Z'
+datePublished: '2016-12-12T21:26:36.762Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-12T21:25:08.103Z'
+dateModified: '2016-12-12T21:26:36.209Z'
 title: Resume
 publisher: {}
 description: ''
