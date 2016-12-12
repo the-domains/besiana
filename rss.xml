@@ -4,9 +4,9 @@
         <description><![CDATA[Learn something new every day]]></description>
         <link>https://thegrid.ai/besiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Dec 2016 22:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2016 22:55:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/besiana/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Dec 2016 22:05:04 GMT</pubDate>
+        <pubDate>Mon, 12 Dec 2016 22:55:32 GMT</pubDate>
         <item>
             <title><![CDATA[Hello. I am available for exciting things. Let`s talk.]]></title>
             <description><![CDATA[<article><h1>Hello. I am available for exciting things. Let`s talk.</h1><h2>I want to learn and explore the intersection of various technologies and human contexts, including UX, AI and VR. I’d love to join a team that truly values creativity and an enthusiastic learning culture. As a hands on individual who isn’t afraid of a pen and paper, I work through the full UX lifecycle from research to design and testing.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21b9b931-15a9-4a21-9762-6efc03e12cb8.gif"></article>]]></description>
@@ -41,6 +41,13 @@
             <link>https://thegrid.ai/besiana/skills/index.html</link>
             <guid isPermaLink="false">81ec4085-70aa-49de-a206-d36f90bd45eb</guid>
             <pubDate>Mon, 12 Dec 2016 22:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twint Payment]]></title>
+            <description><![CDATA[<article><h1>Twint Payment</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b171585-3b7e-41ec-91bd-a6b28839b511.gif"></article>]]></description>
+            <link>https://thegrid.ai/besiana/twint-payment/index.html</link>
+            <guid isPermaLink="false">42898f93-f605-4e8b-b220-51756871e140</guid>
+            <pubDate>Mon, 12 Dec 2016 22:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
