@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-10T23:07:56.321Z'
+datePublished: '2016-12-12T22:01:24.226Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-10T23:07:54.590Z'
+dateModified: '2016-12-12T22:01:23.917Z'
 title: Portfolio
 publisher: {}
 description: Instep Tour & Travel Itinerary App for MCT Agency GmbH Berlin
+datePublishedOriginal: '2016-12-12T22:01:24.226Z'
 starred: false
-datePublishedOriginal: '2016-10-03T19:04:19.293Z'
 url: portfolio/index.html
 _type: Article
 
