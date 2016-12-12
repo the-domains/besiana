@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T22:02:26.838Z'
+datePublished: '2016-12-12T22:02:44.600Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T22:02:25.516Z'
+dateModified: '2016-12-12T22:02:44.130Z'
 title: Recent Work
 publisher: {}
 description: ''
