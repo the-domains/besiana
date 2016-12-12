@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-12T21:26:36.762Z'
+datePublished: '2016-12-12T21:27:57.546Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-12T21:26:36.209Z'
+dateModified: '2016-12-12T21:27:57.383Z'
 title: Resume
 publisher: {}
 description: ''
 sourcePath: _posts/2016-12-06-experience.md
 hasPage: true
+datePublishedOriginal: '2016-12-12T21:27:57.546Z'
 starred: false
-datePublishedOriginal: '2016-12-12T21:25:27.423Z'
 url: resume/index.html
 _type: Article
 
