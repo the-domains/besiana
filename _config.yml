@@ -34,9 +34,6 @@ navigation:
   - name: Contact
     id: 0925f154-d8b1-4888-a404-8777aabfe22e
     type: content
-  - name: Resume
-    id: 50eb32aa-6faa-4dff-811f-477b16c2191c
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 collections:
