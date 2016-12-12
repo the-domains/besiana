@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T22:57:26.873Z'
+datePublished: '2016-12-12T23:28:53.335Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T22:57:25.774Z'
+dateModified: '2016-12-12T23:28:52.578Z'
 title: Mosaix Game
 publisher: {}
 description: Mosaix Game Paper Prototype
