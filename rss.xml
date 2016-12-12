@@ -4,9 +4,9 @@
         <description><![CDATA[Learn something new every day]]></description>
         <link>https://thegrid.ai/besiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Dec 2016 21:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2016 21:26:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/besiana/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Dec 2016 21:24:08 GMT</pubDate>
+        <pubDate>Mon, 12 Dec 2016 21:26:17 GMT</pubDate>
         <item>
             <title><![CDATA[Hello. I am available for exciting things. Let`s talk.]]></title>
             <description><![CDATA[<article><h1>Hello. I am available for exciting things. Let`s talk.</h1><h2>I love learning about AI, VR and Nature</h2><p>As a hands on individual who isn’t afraid of a pen and paper, I work through the full UX lifecycle from research to design and testing. I want to work with highly motivated people, who inspire me to live a meaningful life and give back to society.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21b9b931-15a9-4a21-9762-6efc03e12cb8.gif"></article>]]></description>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/besiana/skills/index.html</link>
             <guid isPermaLink="false">81ec4085-70aa-49de-a206-d36f90bd45eb</guid>
             <pubDate>Sun, 11 Dec 2016 00:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resume]]></title>
+            <description><![CDATA[<article><h1>Resume</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/785ea8d7-7326-482e-90ca-a08b8ca7c41c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/besiana/resume/index.html</link>
+            <guid isPermaLink="false">50eb32aa-6faa-4dff-811f-477b16c2191c</guid>
+            <pubDate>Mon, 12 Dec 2016 21:25:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
