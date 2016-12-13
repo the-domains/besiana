@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-13T01:19:13.012Z'
-datePublished: '2016-12-13T01:19:13.632Z'
+dateModified: '2016-12-13T01:23:34.551Z'
+datePublished: '2016-12-13T01:23:36.173Z'
 title: Twint Payment
 author: []
 publisher: {}
