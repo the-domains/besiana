@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-13T01:23:34.551Z'
-datePublished: '2016-12-13T01:23:36.137Z'
+dateModified: '2016-12-13T01:29:10.246Z'
+datePublished: '2016-12-13T01:29:11.211Z'
 title: Instep Itinerary Tool
 author: []
 publisher: {}
@@ -32,7 +32,6 @@ Instep is an extensible itinerary tool, that enables Concert Tour Management Age
 
 **Synced collaboration**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eee262d-1064-49d5-aba5-0ae8be521148.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dee49c7b-242d-49a8-b129-1d13965212e8.jpg)
 
 **Planning**  
 Simple tour planning by creating as many travel-parties and time-boxes as you need.  
@@ -41,7 +40,7 @@ Plan the entire tour in detail and integrate important basic data and additional
 
 **Alert**  
 If a problem occurs in this example "The driver is delayed by 30 minutes", the arrival time is updated by the tour management in the corresponding card. After the changes has been edited, a pre-made push message will be created and sent to the respective travel parties. To ensure that the message has been acknowledged, you can enable an instant feedback option.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd9b46a5-b744-44c2-9c75-db6ee27e898a.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638d8397-40b7-4bc1-b7f0-8d191d6c57b6.gif)
 
 **Map **  
 Map and route planning for productive navigation. Use the map view to get information about your booked accommodations, the next show locations. or information about the travel distances. If you enter additional personal data, you will be offered individual offers for the respective profiles.
