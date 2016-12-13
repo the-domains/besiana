@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T23:31:35.264Z'
+datePublished: '2016-12-13T00:31:36.694Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T23:31:34.393Z'
+dateModified: '2016-12-13T00:31:35.272Z'
 title: Illustration
 publisher: {}
 description: 'Procrastination Comic Book '
