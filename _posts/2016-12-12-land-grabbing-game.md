@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Paper Prototyping
-dateModified: '2016-12-13T01:13:31.433Z'
-datePublished: '2016-12-13T01:13:32.291Z'
-title: Land grabbing Game
+dateModified: '2016-12-13T01:14:14.329Z'
+datePublished: '2016-12-13T01:14:15.350Z'
+title: 'Land grabbing '
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: land-grabbing-game/index.html
 _type: Article
 
 ---
-# Land grabbing Game
+# Land grabbing 
 
 Paper Prototyping
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d8dc1e1-6225-4b79-b27d-57018ebcb23e.gif)
