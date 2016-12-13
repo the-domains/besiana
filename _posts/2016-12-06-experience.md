@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-13T00:30:40.156Z'
+datePublished: '2016-12-13T00:31:36.584Z'
 inFeed: false
 author: []
 via: {}
-dateModified: '2016-12-13T00:30:39.452Z'
+dateModified: '2016-12-13T00:31:35.272Z'
 title: Photo- and Editorial Design
 publisher: {}
 description: Neue Zürcher Zeitung
