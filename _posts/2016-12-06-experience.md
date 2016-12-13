@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-13T01:09:59.937Z'
+datePublished: '2016-12-13T01:11:37.180Z'
 inFeed: false
 author: []
 via: {}
-dateModified: '2016-12-13T01:08:57.798Z'
+dateModified: '2016-12-13T01:11:35.583Z'
 title: Photo- and Editorial Design
 publisher: {}
 description: Neue Zürcher Zeitung
@@ -28,7 +28,6 @@ NZZ Pictures of the day
 
 ### [Chasing the Matterhorn][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d25cd993-d7f6-47ff-b46d-6bb328cb7e9a.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d37bb8-8e46-4438-b162-90bda6ba83c4.png)
 
 NZZ Wochenende
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de26b973-ea08-4fc4-a936-1c4bd9218920.jpg)
