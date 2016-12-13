@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-12T22:55:57.141Z'
-datePublished: '2016-12-12T22:55:58.733Z'
+dateModified: '2016-12-13T01:05:14.302Z'
+datePublished: '2016-12-13T01:05:15.408Z'
 title: Twint Payment
 author: []
 publisher: {}
@@ -26,6 +26,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58477c5b-96fd-4681-93c3-6b0983887fbb.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a44a327-e40a-4c9a-879a-54524f2d9463.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfa97d4d-38ec-4628-821a-97c4ce0fc291.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c79414d6-8b9a-49b1-9540-a8037c585858.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9114f474-92ea-4f7b-a85c-7f84123bb369.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7693f365-7def-4a82-a9b3-e7e2b32be617.png)
