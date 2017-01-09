@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-09T18:52:41.808Z'
+datePublished: '2017-01-09T18:58:06.032Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-09T18:52:41.278Z'
+dateModified: '2017-01-09T18:58:04.634Z'
 title: Illustration
 publisher: {}
 description: ''
@@ -16,7 +16,9 @@ _type: Article
 
 ---
 # Illustration
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee610437-244b-48e8-adf5-20637243b3ee.gif)
+
+### 5 Facts about Procrastination
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0bcd3a7-ab01-4308-9549-7a98e2106276.jpg)
 
 ---
 
@@ -24,5 +26,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e0e5c21-4250-4da3-bb33-8eb7e31d0a8b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1ebf9ee-64a8-49bf-9a5e-cf2bae29d39b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec93eb6f-e736-403b-8141-b842f8d60e48.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d384371b87dfc248193107e7afa7a76f/croprotate.jpg?cropheight=3449&cropwidth=4878&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4579348c-3919-4760-b8b1-f9c9e7896c0a.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/568e373ac1a19afca4efc64c55362c8e6c3cd847.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f38251-9ef4-456b-a8a9-28e35fce87da.jpg)
