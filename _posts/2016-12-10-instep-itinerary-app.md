@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-13T01:29:10.246Z'
-datePublished: '2016-12-13T01:29:11.211Z'
+dateModified: '2017-01-09T19:41:26.609Z'
+datePublished: '2017-01-09T19:41:27.478Z'
 title: Instep Itinerary Tool
 author: []
 publisher: {}
@@ -22,10 +22,10 @@ _type: Article
 
 **Client: **MCT Agency GmbH Berlin
 
-**Before: Book of Lies**
+Before**Book of Lies**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5883a7-f006-4b56-960b-cc34869451cc.jpg)
 
-**After: Instep**
+**After: Instep Itinerary Tool**
 
 Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
