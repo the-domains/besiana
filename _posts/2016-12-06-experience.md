@@ -1,16 +1,16 @@
 ---
-datePublished: '2017-01-09T18:35:32.417Z'
+datePublished: '2017-01-09T18:59:44.825Z'
 inFeed: false
 author: []
 via: {}
-dateModified: '2017-01-09T18:35:31.234Z'
+dateModified: '2017-01-09T18:59:44.601Z'
 title: Photo- and Editorial Design
 publisher: {}
 description: Neue Zürcher Zeitung
 sourcePath: _posts/2016-12-06-experience.md
 hasPage: true
+datePublishedOriginal: '2017-01-09T18:59:44.825Z'
 starred: false
-datePublishedOriginal: '2016-12-15T20:05:04.533Z'
 url: photo-and-editorial-design/index.html
 _type: Blurb
 
