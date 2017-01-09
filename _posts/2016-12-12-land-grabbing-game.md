@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Paper Prototyping
-dateModified: '2017-01-09T18:40:55.691Z'
-datePublished: '2017-01-09T18:40:57.465Z'
+dateModified: '2017-01-09T18:43:33.269Z'
+datePublished: '2017-01-09T18:43:34.534Z'
 title: Land grabbing
 author: []
 publisher: {}
