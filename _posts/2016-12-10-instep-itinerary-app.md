@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-09T20:26:44.958Z'
-datePublished: '2017-01-09T20:26:45.811Z'
+dateModified: '2017-01-09T21:33:00.201Z'
+datePublished: '2017-01-09T21:33:00.923Z'
 title: Instep Itinerary Tool
 author: []
 publisher: {}
@@ -22,19 +22,17 @@ _type: Article
 
 **Client: **MCT Agency GmbH Berlin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5883a7-f006-4b56-960b-cc34869451cc.jpg)
-
-To**App of Truth**
-
-Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/567a348d-c211-44e4-be03-9899ba4a974c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
 
-**Synced collaboration**
+Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eee262d-1064-49d5-aba5-0ae8be521148.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed27cac-e3cc-41c4-b1ef-5b6bc2536e2f.jpg)
 
 **Planning**  
 Simple tour planning by creating as many travel-parties and time-boxes as you need.  
-Plan the entire tour in detail and integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa738cf4-c0c4-4a36-956f-c25038626873.jpg)
+Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdd98829-f1f0-4d89-81c1-143548136e5f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef38dc9-710a-4f75-a750-a7307251efd1.gif)
 
 **Alert**  
