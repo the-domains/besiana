@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-09T18:37:28.538Z'
-datePublished: '2017-01-09T18:37:29.806Z'
+dateModified: '2017-01-09T21:41:14.192Z'
+datePublished: '2017-01-09T21:41:14.741Z'
 title: Twint Payment
 author: []
 publisher: {}
@@ -16,7 +16,6 @@ _type: Article
 
 ---
 # Twint Payment
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b171585-3b7e-41ec-91bd-a6b28839b511.gif)
 
 ---
 
