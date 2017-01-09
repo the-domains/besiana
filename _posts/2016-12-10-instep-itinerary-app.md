@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-09T19:52:11.535Z'
-datePublished: '2017-01-09T19:52:12.505Z'
+dateModified: '2017-01-09T20:26:44.958Z'
+datePublished: '2017-01-09T20:26:45.811Z'
 title: Instep Itinerary Tool
 author: []
 publisher: {}
@@ -34,6 +34,7 @@ Instep is an extensible itinerary tool, that enables Concert Tour Management Age
 **Planning**  
 Simple tour planning by creating as many travel-parties and time-boxes as you need.  
 Plan the entire tour in detail and integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa738cf4-c0c4-4a36-956f-c25038626873.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef38dc9-710a-4f75-a750-a7307251efd1.gif)
 
 **Alert**  
