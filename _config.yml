@@ -1,29 +1,34 @@
-typography_spectrum: 0.5848267
-content_rating:
-  adult: false
+title: Besiana Bandilli
+content: []
+github: true
+purpose:
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: 'Contact '
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: UX UI and Graphic Designer
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0.4701314
+  rhythmicContrast: 1
   brandColors:
     - '#FFFC00'
     - '#FFFFFF'
     - '#03BBCB'
     - '#000000'
     - '#A9E645'
-  rhythmicContrast: 1
-github: true
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
-layout_spectrum: 0.8787335
-author:
-  name: Besiana Bandilli
-  email: bandillib@gmail.com
-  url: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
-name: BB
+  lightness: 0.4701314
 navigation:
   - name: About
     id: 5614b562-6491-4c2b-9063-aa03c463fe52
@@ -39,22 +44,17 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Besiana Bandilli
-content: []
-description: UX UI and Graphic Designer
-purpose:
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: 'Contact '
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: ''
+name: BB
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
+typography_spectrum: 0.5848267
+layout_spectrum: 0.7401433
+content_rating:
+  adult: false
