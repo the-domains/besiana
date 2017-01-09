@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Learn something new every day]]></title>
-        <description><![CDATA[Learn something new every day]]></description>
+        <title><![CDATA[Besiana Bandilli]]></title>
+        <description><![CDATA[Besiana Bandilli]]></description>
         <link>https://thegrid.ai/besiana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Jan 2017 21:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2017 21:41:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/besiana/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Jan 2017 21:33:42 GMT</pubDate>
+        <pubDate>Mon, 09 Jan 2017 21:41:15 GMT</pubDate>
         <item>
             <title><![CDATA[Hello. I am available for exciting things. Let`s talk.]]></title>
             <description><![CDATA[<article><h1>Hello. I am available for exciting things. Let`s talk.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66eea373-9fc5-4a94-a4b5-b4bb3518e625.gif"></article>]]></description>
@@ -30,10 +30,10 @@
         </item>
         <item>
             <title><![CDATA[Twint Payment]]></title>
-            <description><![CDATA[<article><h1>Twint Payment</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b171585-3b7e-41ec-91bd-a6b28839b511.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Twint Payment</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9114f474-92ea-4f7b-a85c-7f84123bb369.png"></article>]]></description>
             <link>https://thegrid.ai/besiana/twint-payment/index.html</link>
             <guid isPermaLink="false">42898f93-f605-4e8b-b220-51756871e140</guid>
-            <pubDate>Mon, 09 Jan 2017 18:37:29 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2017 21:41:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Land grabbing]]></title>
@@ -41,13 +41,6 @@
             <link>https://thegrid.ai/besiana/land-grabbing-game/index.html</link>
             <guid isPermaLink="false">05432d20-8447-4a57-b322-baf1328d84c8</guid>
             <pubDate>Mon, 09 Jan 2017 18:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skills]]></title>
-            <description><![CDATA[<h1>Skills</h1>]]></description>
-            <link>https://thegrid.ai/besiana/skills/index.html</link>
-            <guid isPermaLink="false">81ec4085-70aa-49de-a206-d36f90bd45eb</guid>
-            <pubDate>Mon, 09 Jan 2017 18:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
