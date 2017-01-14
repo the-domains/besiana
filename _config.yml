@@ -23,11 +23,11 @@ color:
   brandStrength: 1
   lightness: 1
   brandColors:
-    - '#EFF1E4'
-    - '#BF010C'
-    - '#018142'
-    - '#0D0503'
-    - '#B95D54'
+    - '#FFFFFF'
+    - '#00A0E0'
+    - '#E3007E'
+    - '#1D1D1B'
+    - '#F185BF'
   rhythmicContrast: 1
 navigation:
   - name: About
