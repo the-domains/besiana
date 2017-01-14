@@ -1,34 +1,4 @@
-title: Besiana Bandilli
-content: []
-github: true
-purpose:
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: 'Contact '
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 description: UX UI and Graphic Designer
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.4713261
-  brandColors:
-    - '#FFFFFF'
-    - '#00A0E0'
-    - '#E3007E'
-    - '#1D1D1B'
-    - '#F185BF'
-  rhythmicContrast: 1
 navigation:
   - name: About
     id: 5614b562-6491-4c2b-9063-aa03c463fe52
@@ -42,19 +12,49 @@ navigation:
   - name: Resume
     id: 6d7178f9-72bd-4e33-b6c2-b5b82590331f
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
+typography_spectrum: 0.5848267
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
   url: ''
-name: BB
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
+layout_spectrum: 0.8882915
+title: Besiana Bandilli
+purpose:
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: 'Contact '
+github: true
+color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#00A0E0'
+    - '#E3007E'
+    - '#1D1D1B'
+    - '#F185BF'
+  lightness: 0.4713261
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
-typography_spectrum: 0.5848267
-layout_spectrum: 0.8882915
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 content_rating:
   adult: false
+name: BB
+content: []
