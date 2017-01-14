@@ -21,14 +21,14 @@ description: UX UI and Graphic Designer
 color:
   saturation: 1
   brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFC00'
-    - '#FFFFFF'
-    - '#03BBCB'
-    - '#000000'
-    - '#A9E645'
   lightness: 0
+  brandColors:
+    - '#EFF1E4'
+    - '#BF010C'
+    - '#018142'
+    - '#0D0503'
+    - '#B95D54'
+  rhythmicContrast: 1
 navigation:
   - name: About
     id: 5614b562-6491-4c2b-9063-aa03c463fe52
