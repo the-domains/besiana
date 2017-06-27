@@ -1,18 +1,18 @@
 ---
-datePublished: '2017-06-27T13:21:35.433Z'
+datePublished: '2017-06-27T13:31:15.626Z'
 sourcePath: _posts/2016-10-01-portfolio.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-06-27T13:21:34.777Z'
+dateModified: '2017-06-27T13:31:14.327Z'
 title: Illustration
 publisher: {}
 description: ''
 starred: false
 datePublishedOriginal: '2016-12-12T22:01:24.226Z'
 url: portfolio/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Illustration
