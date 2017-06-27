@@ -1,4 +1,4 @@
-description: UX UI and Graphic Designer
+description: UX UI  Graphic Designer
 typography_spectrum: 0.5848267
 opengraph:
   image: >-
@@ -62,7 +62,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
