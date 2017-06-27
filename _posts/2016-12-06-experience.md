@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-06-27T13:21:35.430Z'
+datePublished: '2017-06-27T13:24:10.456Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-06-27T13:21:34.777Z'
+dateModified: '2017-06-27T13:24:09.861Z'
 title: Photography and Editorial Design
 publisher: {}
 description: Neue Zürcher Zeitung
@@ -18,14 +18,14 @@ _type: Article
 # Photography and Editorial Design
 
 **Neue Zürcher Zeitung**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5a02857-30a3-4ac8-b7a2-efb20721ac38.jpg)
+
+### Photos of the Day
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af40bc7d-38a4-4a8c-a463-e0c23238cf41.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d71dab3-d720-458a-bdf6-4e3793cf1a83.png)
 
 ---
 
-Daily Pictures
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d71dab3-d720-458a-bdf6-4e3793cf1a83.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af40bc7d-38a4-4a8c-a463-e0c23238cf41.png)
-
 ### Wochenende Special
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5a02857-30a3-4ac8-b7a2-efb20721ac38.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de26b973-ea08-4fc4-a936-1c4bd9218920.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9da7e52-8807-48f6-83d5-a7d94dfde2df.jpg)
