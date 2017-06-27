@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-09T21:33:00.201Z'
-datePublished: '2017-01-09T21:33:00.923Z'
+dateModified: '2017-06-27T13:21:34.777Z'
+datePublished: '2017-06-27T13:21:35.440Z'
 title: Instep Itinerary Tool
 author: []
 publisher: {}
