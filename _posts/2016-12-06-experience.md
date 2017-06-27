@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-01-09T22:01:27.322Z'
-inFeed: true
+datePublished: '2017-06-27T12:19:16.320Z'
+inFeed: false
 author: []
 via: {}
-dateModified: '2017-01-09T22:01:26.831Z'
+dateModified: '2017-06-27T12:19:15.219Z'
 title: Photography and Editorial Design
 publisher: {}
 description: Neue Zürcher Zeitung
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-15T20:05:04.533Z'
 url: photo-and-editorial-design/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Photography and Editorial Design
