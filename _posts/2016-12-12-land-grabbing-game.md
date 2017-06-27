@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-09T21:48:55.515Z'
-datePublished: '2017-01-09T21:48:56.555Z'
+dateModified: '2017-06-27T13:21:34.777Z'
+datePublished: '2017-06-27T13:21:35.439Z'
 title: Paper Prototyping
 author: []
 publisher: {}
