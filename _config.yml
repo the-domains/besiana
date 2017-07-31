@@ -1,8 +1,35 @@
-description: UX DESIGNER
 typography_spectrum: 0.5848267
+content_rating:
+  adult: false
+color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#00A0E0'
+    - '#E3007E'
+    - '#1D1D1B'
+    - '#F185BF'
+  lightness: 0.4713261
+github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
+layout_spectrum: 0.8882915
+author:
+  name: Besiana Bandilli
+  email: bandillib@gmail.com
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
+name: BB
+navigation:
+  - name: Who am I?
+    id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
 collections:
   - index:
       path: /
@@ -15,35 +42,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-author:
-  name: Besiana Bandilli
-  email: bandillib@gmail.com
-  url: ''
-layout_spectrum: 0.8882915
 title: Besiana Bandilli
-purpose:
-  - type: contact
-    url: 'mailto:bandillib@gmail.com'
-    label: 'Contact '
-github: true
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#00A0E0'
-    - '#E3007E'
-    - '#1D1D1B'
-    - '#F185BF'
-  lightness: 0.4713261
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
-content_rating:
-  adult: false
-name: BB
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -53,19 +52,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f3f1176-fd02-4337-b6a7-a89626ce6e05.gif
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -77,19 +76,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/775e0e81-6786-47e3-9439-81b58e146a55.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -101,19 +100,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eeb1d6f-8670-4b9b-9fec-911761865c15.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+description: UX DESIGNER
+purpose:
+  - type: contact
+    url: 'mailto:bandillib@gmail.com'
+    label: 'Contact '
