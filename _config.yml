@@ -1,22 +1,22 @@
-typography_spectrum: 0.5848267
+layout_spectrum: 0.676271912052416
+typography_spectrum: 0.3545214236073085
+color:
+  saturation: 0.5126932689130749
+  brandStrength: 0.530126575470192
+  rhythmicContrast: 0.6177388074806901
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  lightness: 0.44494426623733696
 content_rating:
   adult: false
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#00A0E0'
-    - '#E3007E'
-    - '#1D1D1B'
-    - '#F185BF'
-  lightness: 0.4713261
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
-layout_spectrum: 0.8882915
 author:
   name: Besiana Bandilli
   email: bandillib@gmail.com
@@ -163,7 +163,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
