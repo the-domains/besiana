@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-08-01T21:16:20.321Z'
+datePublished: '2017-08-01T21:40:32.672Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-08-01T21:16:19.872Z'
+dateModified: '2017-08-01T21:40:31.885Z'
 title: Neue Zürcher Zeitung
 publisher: {}
 description: ''
@@ -21,11 +21,7 @@ _type: Article
 ---
 
 ### NZZ Weekend
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0101fc9f4ee11fb023382fc47dce732/croprotate.png?cropheight=4565&cropwidth=946&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbd90f823-90a3-4fcd-b102-92cb99c6837e.png&x=103&y=0)
-
-### NZZ Daily ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a940e508-093f-4cb0-b445-69edff364f17.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d907957916b6cf2bffc2132a7e9ff341/croprotate.png?cropheight=4352&cropwidth=941&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F35c0e4a9-f469-4deb-891c-b34e27d9b3cd.png&x=103&y=121)
 
 ### NZZ Special Editions
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da13e43-53c4-408c-8008-e883a0761cfa.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35c0e4a9-f469-4deb-891c-b34e27d9b3cd.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aa4f930-f75e-4e65-89c4-9bc03ed05919.png)
