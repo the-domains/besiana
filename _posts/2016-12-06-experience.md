@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-08-01T16:31:47.793Z'
+datePublished: '2017-08-01T17:22:02.150Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-08-01T16:31:47.489Z'
+dateModified: '2017-08-01T17:22:01.946Z'
 title: Neue Zürcher Zeitung
 publisher: {}
 description: ''
