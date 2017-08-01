@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-01T22:03:00.555Z'
+datePublished: '2017-08-01T22:23:42.427Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-01T22:02:59.795Z'
+dateModified: '2017-08-01T22:23:41.868Z'
 title: Illustrations
 publisher: {}
 description: ''
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1b9aea-092f-4e72-9505-a34d74612fb6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac1ab2f6-d411-426b-a40a-24474169adca.png)
 
 Die Presse 2008, Bawag Prozess
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e012b0bf-8830-4bd6-a250-bb0e1edce55d.jpg)
