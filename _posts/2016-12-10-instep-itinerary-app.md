@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-01T17:22:01.946Z'
-datePublished: '2017-08-01T17:22:02.176Z'
-title: 'MCT Agency Berlin '
+dateModified: '2017-08-01T21:03:35.004Z'
+datePublished: '2017-08-01T21:03:36.088Z'
+title: MCT Agency Berlin
 author: []
 publisher: {}
 via: {}
@@ -15,17 +15,16 @@ url: instep-itinerary-tool/index.html
 _type: Article
 
 ---
-# MCT Agency Berlin ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2beed3-5e8a-42e4-a2ea-1b00441d7085.jpg)
+# MCT Agency Berlin
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2beed3-5e8a-42e4-a2ea-1b00441d7085.jpg)
 
 ---
 
 ### **ROLE: **Concept, Research, Design
 
-### **OVERVIEW**  
-Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies like MCT Agency GmbH Berlin, to organise and plan entire tours.
+### **OVERVIEW: **Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies like MCT Agency GmbH Berlin, to organise and plan entire tours.
 
-### **PROCESS**  
-Simple tour planning by creating as many travel-parties and time-boxes as you need.  
+### **PROCESS: **Simple tour planning by creating as many travel-parties and time-boxes as you need.  
 Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5883a7-f006-4b56-960b-cc34869451cc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/567a348d-c211-44e4-be03-9899ba4a974c.jpg)
@@ -41,4 +40,3 @@ If a problem occurs in this example "The driver is delayed by 30 minutes", the a
 
 **Map **  
 Map and route planning for productive navigation. Use the map view to get information about your booked accommodations, the next show locations. or information about the travel distances. If you enter additional personal data, you will be offered individual offers for the respective profiles.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be8e993e-c6b8-4b7a-ab51-45d2ac1fd360.gif)
