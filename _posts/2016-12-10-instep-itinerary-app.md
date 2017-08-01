@@ -1,14 +1,14 @@
 ---
-inFeed: true
-description: ''
-dateModified: '2017-08-01T22:04:53.934Z'
-datePublished: '2017-08-01T22:04:54.717Z'
-title: MCT Agency Berlin
-author: []
 publisher: {}
+datePublished: '2017-08-01T22:32:39.970Z'
+dateModified: '2017-08-01T22:32:29.558Z'
+description: ''
 via: {}
-hasPage: true
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
+title: MCT Agency Berlin
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2016-12-12T22:03:20.174Z'
 url: instep-itinerary-tool/index.html
@@ -35,10 +35,10 @@ PDF-Export
 Map View
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711a7e7a-63a8-473d-9998-9c5615b62106.gif)
 
-### Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
-
 **Plan a Tour**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bfcf83d-a89b-4d4e-9da2-9e549d188ced.gif)
+
+Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de26c7c-507f-4b15-a84f-5ee5cf798839.gif)
 
 **Edit on the Road**  
