@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-08-01T12:05:58.322Z'
+datePublished: '2017-08-01T16:27:03.509Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-08-01T12:05:57.583Z'
-title: Photography and Editorial Design
+dateModified: '2017-08-01T16:27:02.949Z'
+title: Neue Zürcher Zeitung
 publisher: {}
-description: Neue Zürcher Zeitung
+description: ''
 sourcePath: _posts/2016-12-06-experience.md
 hasPage: true
 starred: false
@@ -15,9 +15,7 @@ url: photo-and-editorial-design/index.html
 _type: Article
 
 ---
-# Photography and Editorial Design
-
-**Neue Zürcher Zeitung**
+# Neue Zürcher Zeitung
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c807189-65d1-44b7-b2c6-15f0c19d74c4.jpg)
 
 ---
