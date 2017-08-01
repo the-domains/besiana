@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-08-01T17:22:02.150Z'
+datePublished: '2017-08-01T21:01:33.686Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-08-01T17:22:01.946Z'
+dateModified: '2017-08-01T21:01:32.850Z'
 title: Neue Zürcher Zeitung
 publisher: {}
 description: ''
@@ -16,12 +16,14 @@ _type: Article
 
 ---
 # Neue Zürcher Zeitung
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c807189-65d1-44b7-b2c6-15f0c19d74c4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9300c4d0-6741-413b-b387-83a2324e9eeb.png)
 
 ---
 
-### Photos of the Day
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1474d222-d733-4901-814f-c73decd814a4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5a02857-30a3-4ac8-b7a2-efb20721ac38.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de26b973-ea08-4fc4-a936-1c4bd9218920.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9da7e52-8807-48f6-83d5-a7d94dfde2df.jpg)
+### NZZ Weekend
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0101fc9f4ee11fb023382fc47dce732/croprotate.png?cropheight=4565&cropwidth=946&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbd90f823-90a3-4fcd-b102-92cb99c6837e.png&x=103&y=0)
+
+### NZZ Daily ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a940e508-093f-4cb0-b445-69edff364f17.png)
+
+### NZZ Special Editions
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da13e43-53c4-408c-8008-e883a0761cfa.png)
