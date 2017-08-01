@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-08-01T21:41:54.701Z'
+datePublished: '2017-08-01T22:14:28.626Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-08-01T21:41:53.697Z'
+dateModified: '2017-08-01T22:14:27.096Z'
 title: Neue Zürcher Zeitung
 publisher: {}
 description: ''
@@ -20,8 +20,16 @@ _type: Article
 
 ---
 
-### NZZ Weekend
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d907957916b6cf2bffc2132a7e9ff341/croprotate.png?cropheight=4352&cropwidth=941&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F35c0e4a9-f469-4deb-891c-b34e27d9b3cd.png&x=103&y=121)
+### **CLIENT: **Neue Zürcher Zeitung
 
-### NZZ Special Editions
+### **ROLE: **Art Direction****Concept, Design
+
+**OVERVIEW: **NZZ has a very diverse Product Portfolio. Redesigning the daily Newspaper, as well as many other publications like NZZ "Weekend" or Special Financial or Educative Editions.
+
+**PROCESS: **The biggest challenge was, creating a visual identity of the diverse and challenging topics by maintaining a consistent photographic quality as well as design.
+
+### **NZZ: **WEEKEND
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/23209b084f1367cee8bf8ea51eaac6cd/croprotate.png?cropheight=4352&cropwidth=931&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fc588aa2e38f166642a82d22105568c7708a790b0.png&x=5&y=0)
+
+### **NZZ: **Special Editions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aa4f930-f75e-4e65-89c4-9bc03ed05919.png)
