@@ -49,7 +49,32 @@ collections:
       format: rss
       number: 10
 title: Hello there!
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4596b0-d9f8-4143-89e1-43e7a68f9c90.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4596b0-d9f8-4143-89e1-43e7a68f9c90.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'I''m Besiana Bandilli, UX Designer'
 purpose:
   - type: contact
