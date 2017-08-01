@@ -74,7 +74,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: I'm Besiana Bandilli
+description: 'I''m Besiana Bandilli, UX Designer'
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
