@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-01T17:20:59.387Z'
-datePublished: '2017-08-01T17:21:00.049Z'
+dateModified: '2017-08-01T17:21:39.086Z'
+datePublished: '2017-08-01T17:21:39.722Z'
 title: Operation Libero
 author: []
 publisher: {}
@@ -19,3 +19,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2547a71-cf2c-4e57-bd1f-8fff537ec81e.jpg)
 
 ---
+
+### **ROLE: **Concept, Design
+
+### **OVERVIEW**  
+Mila connects customers with skilled local technicians Friends and Pros, whenever and wherever they're needed.
+
+### **PROCESS**  
+The biggest challenge to designing different Landing Pages for the Mila Friends Business Partners, is to integrate the different brand identities of the business partners, while being consistent of interaction models and call to actions.
