@@ -2,71 +2,64 @@
     <channel>
         <title><![CDATA[Hello there!]]></title>
         <description><![CDATA[Hello there!]]></description>
-        <link>https://thegrid.ai/besiana/</link>
+        <link>http://besiana.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Aug 2017 17:24:34 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/besiana/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 01 Aug 2017 17:24:30 GMT</pubDate>
+        <lastBuildDate>Tue, 01 Aug 2017 17:53:21 GMT</lastBuildDate>
+        <atom:link href="http://besiana.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 01 Aug 2017 17:53:19 GMT</pubDate>
         <item>
             <title><![CDATA[Let’s talk]]></title>
             <description><![CDATA[<h1><strong>Let’s talk</strong></h1>,<p>As an Interaction Designer, my focus is on the user and their needs. While developing solutions for websites and apps, I work through the full UX lifecycle from research to design and testing.</p>,<p>I want to learn, from highly motivated people, who inspire me to live a meaningful life and give back to society.</p>,<p>If you want to know more about me, see my resume.</p>]]></description>
-            <link>https://thegrid.ai/besiana/hello-i-am-available-for-exciting-things-lets-talk/index.html</link>
+            <link>http://besiana.io/hello-i-am-available-for-exciting-things-lets-talk/index.html</link>
             <guid isPermaLink="false">cd665aa0-ba6f-4e00-ac66-b17706c7c450</guid>
             <pubDate>Sat, 14 Jan 2017 16:58:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Skills]]></title>
-            <description><![CDATA[<h1>Skills</h1>,<ul><li>Concept &amp; Strategy</li><li>Interaction Design</li><li>Web Design</li><li>User Interface Design</li><li>Graphic Design</li></ul>]]></description>
-            <link>https://thegrid.ai/besiana/skills/index.html</link>
-            <guid isPermaLink="false">81ec4085-70aa-49de-a206-d36f90bd45eb</guid>
-            <pubDate>Tue, 06 Dec 2016 00:40:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Recent Work]]></title>
             <description><![CDATA[<h1>Recent Work</h1>]]></description>
-            <link>https://thegrid.ai/besiana/recent-work/index.html</link>
+            <link>http://besiana.io/recent-work/index.html</link>
             <guid isPermaLink="false">2b959a92-20d9-461f-b265-ae1bdcc3e4e9</guid>
             <pubDate>Mon, 09 Jan 2017 19:38:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mila]]></title>
             <description><![CDATA[<h1>Mila</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02ff9b9a-d383-434f-a72e-09a57b7752a7.png">]]></description>
-            <link>https://thegrid.ai/besiana/web-design/index.html</link>
+            <link>http://besiana.io/web-design/index.html</link>
             <guid isPermaLink="false">9133514d-1e1d-40b2-b98e-94c8da5f5255</guid>
             <pubDate>Tue, 01 Aug 2017 11:52:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Operation Libero]]></title>
             <description><![CDATA[<h1>Operation Libero</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2547a71-cf2c-4e57-bd1f-8fff537ec81e.jpg">]]></description>
-            <link>https://thegrid.ai/besiana/operation-libero/index.html</link>
+            <link>http://besiana.io/operation-libero/index.html</link>
             <guid isPermaLink="false">e5def9d8-0df5-4f04-bcca-0d28390b1707</guid>
             <pubDate>Tue, 01 Aug 2017 16:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MCT Agency Berlin ]]></title>
             <description><![CDATA[<h1>MCT Agency Berlin </h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2beed3-5e8a-42e4-a2ea-1b00441d7085.jpg">]]></description>
-            <link>https://thegrid.ai/besiana/instep-itinerary-tool/index.html</link>
+            <link>http://besiana.io/instep-itinerary-tool/index.html</link>
             <guid isPermaLink="false">158b808a-0fd2-49da-9bea-0a6c1c9bb573</guid>
             <pubDate>Mon, 12 Dec 2016 22:03:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neue Zürcher Zeitung]]></title>
             <description><![CDATA[<h1>Neue Zürcher Zeitung</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c807189-65d1-44b7-b2c6-15f0c19d74c4.jpg">]]></description>
-            <link>https://thegrid.ai/besiana/photo-and-editorial-design/index.html</link>
+            <link>http://besiana.io/photo-and-editorial-design/index.html</link>
             <guid isPermaLink="false">6d7178f9-72bd-4e33-b6c2-b5b82590331f</guid>
             <pubDate>Thu, 15 Dec 2016 20:05:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Illustration]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee56d4df-44f9-4003-971a-b5fb626b7986.jpg">,<h1>Illustration</h1>]]></description>
-            <link>https://thegrid.ai/besiana/portfolio/index.html</link>
+            <link>http://besiana.io/portfolio/index.html</link>
             <guid isPermaLink="false">b6b3c588-11ee-46a9-938c-517fce43399b</guid>
             <pubDate>Mon, 12 Dec 2016 22:01:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Contact</p>]]></description>
-            <link>https://thegrid.ai/besiana/contact/index.html</link>
+            <link>http://besiana.io/contact/index.html</link>
             <guid isPermaLink="false">5d4e929b-6b87-4574-9d1f-9cc5e9ec7a63</guid>
             <pubDate>Mon, 31 Jul 2017 22:48:15 GMT</pubDate>
         </item>
