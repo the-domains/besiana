@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-01T16:31:47.489Z'
-datePublished: '2017-08-01T16:31:47.824Z'
-title: Instep Itinerary Tool
+dateModified: '2017-08-01T17:05:17.812Z'
+datePublished: '2017-08-01T17:05:19.196Z'
+title: 'MCT Agency Berlin '
 author: []
 publisher: {}
 via: {}
@@ -15,23 +15,23 @@ url: instep-itinerary-tool/index.html
 _type: Article
 
 ---
-# Instep Itinerary Tool
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2beed3-5e8a-42e4-a2ea-1b00441d7085.jpg)
+# MCT Agency Berlin ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2beed3-5e8a-42e4-a2ea-1b00441d7085.jpg)
 
 ---
 
-**Client: **MCT Agency GmbH Berlin
+### **ROLE: **Concept, Research, Design
+
+### **OVERVIEW**  
+Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies like MCT Agency GmbH Berlin, to organise and plan entire tours.
+
+### **PROCESS**  
+Simple tour planning by creating as many travel-parties and time-boxes as you need.  
+Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a5883a7-f006-4b56-960b-cc34869451cc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/567a348d-c211-44e4-be03-9899ba4a974c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
-
-Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies, to organise and plan entire tours.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eee262d-1064-49d5-aba5-0ae8be521148.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ed27cac-e3cc-41c4-b1ef-5b6bc2536e2f.jpg)
-
-**Planning**  
-Simple tour planning by creating as many travel-parties and time-boxes as you need.  
-Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdd98829-f1f0-4d89-81c1-143548136e5f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ef38dc9-710a-4f75-a750-a7307251efd1.gif)
 
