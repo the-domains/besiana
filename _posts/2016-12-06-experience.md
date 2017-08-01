@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-01T22:35:05.943Z'
-dateModified: '2017-08-01T22:34:57.643Z'
+datePublished: '2017-08-01T23:28:38.385Z'
+dateModified: '2017-08-01T23:28:31.127Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -22,7 +22,7 @@ _type: Article
 
 ### **CLIENT: **Neue Zürcher Zeitung
 
-### **ROLE: **Art DirectionConcept, Design
+### **ROLE: **Art Direction, Concept, Design
 
 ### **NZZ: **WEEKEND
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
@@ -30,6 +30,6 @@ _type: Article
 ### **NZZ: **Special Editions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aa4f930-f75e-4e65-89c4-9bc03ed05919.png)
 
-OVERVIEW: NZZ has a very diverse Product Portfolio. Redesigning the daily Newspaper, as well as many other publications like NZZ "Weekend" or Special Financial or Educative Editions.
+OVERVIEW: Concept and Design of the daily Newspaper, as well as many other publications like NZZ "Weekend", Special Financial or Educative Editions.
 
 PROCESS: The biggest challenge was, creating a visual identity of the diverse and challenging topics by maintaining a consistent photographic quality as well as design.
