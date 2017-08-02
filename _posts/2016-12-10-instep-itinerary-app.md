@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-01T23:49:54.637Z'
-dateModified: '2017-08-01T23:49:48.166Z'
+datePublished: '2017-08-02T00:04:26.026Z'
+dateModified: '2017-08-02T00:04:14.496Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -28,11 +28,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
 
 ### **PROCESS: **Simple tour planning by creating as many travel-parties and time-boxes as you need.
-
-### Work offline  
-Import Data  
-PDF-Export   
-Map View
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711a7e7a-63a8-473d-9998-9c5615b62106.gif)
 
 **Plan a Tour**
