@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-01T23:28:38.385Z'
-dateModified: '2017-08-01T23:28:31.127Z'
+datePublished: '2017-08-02T17:39:03.288Z'
+dateModified: '2017-08-02T17:39:02.805Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # Neue Zürcher Zeitung
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9300c4d0-6741-413b-b387-83a2324e9eeb.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0580a87-e2b0-4b2a-8fc6-d02fe6f4df13.png)
 
 ---
 
