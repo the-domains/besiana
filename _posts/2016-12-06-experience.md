@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-02T17:39:03.288Z'
-dateModified: '2017-08-02T17:39:02.805Z'
+datePublished: '2017-08-03T20:22:43.313Z'
+dateModified: '2017-08-03T20:22:42.606Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -24,12 +24,12 @@ _type: Article
 
 ### **ROLE: **Art Direction, Concept, Design
 
-### **NZZ: **WEEKEND
+### **OVERVIEW:** Concept and Design of the daily Newspaper, as well as many other publications like NZZ "Weekend", Special Financial or Educative Editions.
+
+### **PROCESS:** The biggest challenge was, creating a visual identity of the diverse and challenging topics by maintaining a consistent photographic quality as well as design.
+
+### NZZ**Weekend**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
 
-### **NZZ: **Special Editions
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aa4f930-f75e-4e65-89c4-9bc03ed05919.png)
-
-OVERVIEW: Concept and Design of the daily Newspaper, as well as many other publications like NZZ "Weekend", Special Financial or Educative Editions.
-
-PROCESS: The biggest challenge was, creating a visual identity of the diverse and challenging topics by maintaining a consistent photographic quality as well as design.
+### NZZ**Special Editions**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ce878f-4e77-44a0-8a02-bb848df6aa5a.png)
