@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-03T21:41:48.146Z'
+datePublished: '2017-08-03T21:55:23.814Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-03T21:41:46.637Z'
+dateModified: '2017-08-03T21:55:22.510Z'
 title: Illustrations
 publisher: {}
 description: Books
@@ -28,10 +28,10 @@ _type: Article
 
 **Newspapers**
 
-Die Presse 2008, Die Geschichte einer Vertuschung ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34c21f4-6f9e-4fdf-a456-93a2ee81d50d.jpg)
-
+Die Presse 2008, Die Geschichte einer Vertuschung  
 Winner of European Newspaper Award 2008  
 Category: Illustration
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34c21f4-6f9e-4fdf-a456-93a2ee81d50d.jpg)
 
 Die Presse, 2008  
 Der Fall Kampusch
