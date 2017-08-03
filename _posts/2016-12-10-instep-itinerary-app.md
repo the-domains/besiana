@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T21:53:56.598Z'
-dateModified: '2017-08-03T21:53:55.749Z'
+datePublished: '2017-08-03T22:01:42.866Z'
+dateModified: '2017-08-03T22:01:41.788Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
