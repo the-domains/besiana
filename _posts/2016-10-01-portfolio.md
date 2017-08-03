@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-03T22:30:59.732Z'
+datePublished: '2017-08-03T23:13:26.263Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-03T22:30:58.947Z'
+dateModified: '2017-08-03T23:13:25.438Z'
 title: Illustrations
 publisher: {}
 description: Books
@@ -21,6 +21,9 @@ _type: Article
 **Books**
 
 "Smartphone Democracy" 2017
+
+"Die Geheime Kunst der Börsenanalyse" 2014
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe2f8d9-2ff3-4b56-90a8-be707e081963.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57ff9287-aaaa-46a3-98b1-fb4f60f86949.png)
 
 "Die Geheime Kunst der Börsenanalyse" 2014
@@ -32,16 +35,16 @@ Die Presse, 2008
 Die Geschichte einer Vertuschung  
 Winner of European Newspaper Award 2008  
 Category: Illustration
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e34c21f4-6f9e-4fdf-a456-93a2ee81d50d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7505dca-6253-4b05-ad43-8b80c4a647a6.png)
 
 Die Presse, 2008  
 Der Fall Kampusch
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0b9ea57-208e-459d-8055-aceb318d9f9f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13c62493-eb50-497e-81d2-26517f82ebf9.png)
 
 Die Presse, 2008  
 Bawag Prozess
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac1ab2f6-d411-426b-a40a-24474169adca.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97212aa6-1a56-40b7-b1f3-3a452abaaa40.png)
 
 Die Zeit, 2005  
 Sommerbücher
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e012b0bf-8830-4bd6-a250-bb0e1edce55d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2af8e706-6abf-4455-ae05-e083dc8d114c.png)
