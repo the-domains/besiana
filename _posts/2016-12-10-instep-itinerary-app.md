@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T22:08:45.426Z'
-dateModified: '2017-08-03T22:08:44.057Z'
+datePublished: '2017-08-03T22:10:01.881Z'
+dateModified: '2017-08-03T22:10:00.539Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
-title: MCT Agency Berlin
+title: MCT Berlin
 hasPage: true
 inFeed: true
 author: []
@@ -15,7 +15,7 @@ url: instep-itinerary-tool/index.html
 _type: Article
 
 ---
-# MCT Agency Berlin
+# MCT Berlin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2beed3-5e8a-42e4-a2ea-1b00441d7085.jpg)
 
 ---
