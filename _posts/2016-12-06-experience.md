@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T22:03:02.920Z'
-dateModified: '2017-08-03T22:03:02.086Z'
+datePublished: '2017-08-03T22:58:16.525Z'
+dateModified: '2017-08-03T22:58:15.561Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
-title: Neue Zürcher Zeitung
+title: NZZ
 hasPage: true
 inFeed: true
 author: []
@@ -15,7 +15,7 @@ url: photo-and-editorial-design/index.html
 _type: Article
 
 ---
-# Neue Zürcher Zeitung
+# NZZ
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0580a87-e2b0-4b2a-8fc6-d02fe6f4df13.png)
 
 ---
@@ -32,4 +32,4 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
 
 ### NZZ**Special Editions**
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8c6e4213f0af0f0532ad677af1fd19c1/croprotate.png?cropheight=12867&cropwidth=1018&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fbf5af99b834dd90b99abb46463cd09fff0ff595c.png&x=13&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f69890b1aeb7c19bcbe9f259f333d889604081da.png)
