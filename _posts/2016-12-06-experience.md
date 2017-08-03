@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T22:02:55.681Z'
-dateModified: '2017-08-03T22:02:54.220Z'
+datePublished: '2017-08-03T22:03:02.920Z'
+dateModified: '2017-08-03T22:03:02.086Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -32,4 +32,4 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
 
 ### NZZ**Special Editions**
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cd61f0afe020a528b880305a7f352687/croprotate.png?cropheight=12867&cropwidth=1043&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F40ce878f-4e77-44a0-8a02-bb848df6aa5a.png&x=51&y=0)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8c6e4213f0af0f0532ad677af1fd19c1/croprotate.png?cropheight=12867&cropwidth=1018&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fbf5af99b834dd90b99abb46463cd09fff0ff595c.png&x=13&y=0)
