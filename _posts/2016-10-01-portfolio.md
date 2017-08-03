@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-03T23:18:33.186Z'
+datePublished: '2017-08-03T23:20:04.603Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-03T23:18:32.056Z'
+dateModified: '2017-08-03T23:20:03.915Z'
 title: Illustrations
 publisher: {}
 description: Books
@@ -24,10 +24,6 @@ _type: Article
 
 "Die Geheime Kunst der Börsenanalyse" 2014
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe2f8d9-2ff3-4b56-90a8-be707e081963.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57ff9287-aaaa-46a3-98b1-fb4f60f86949.png)
-
-"Die Geheime Kunst der Börsenanalyse" 2014
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18dbb4fc-449b-4d06-a1b6-9b343059a154.png)
 
 **Newspapers**
 
