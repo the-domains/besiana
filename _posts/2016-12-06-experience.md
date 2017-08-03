@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T22:58:16.525Z'
-dateModified: '2017-08-03T22:58:15.561Z'
+datePublished: '2017-08-03T23:38:49.133Z'
+dateModified: '2017-08-03T23:38:48.243Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # NZZ
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0580a87-e2b0-4b2a-8fc6-d02fe6f4df13.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af51dd5a-5f37-45b9-b298-0189dc161e13.png)
 
 ---
 
@@ -31,5 +31,5 @@ _type: Article
 ### NZZ**Weekend**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
 
-### NZZ**Special Editions**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f69890b1aeb7c19bcbe9f259f333d889604081da.png)
+### NZZ**Specials**
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3e715a3ed3ddcf295af1f7bf23ae319e/croprotate.png?cropheight=12762&cropwidth=1035&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F93c73641-c5c6-4a0f-a578-eeccf61e2b9f.png&x=50&y=0)
