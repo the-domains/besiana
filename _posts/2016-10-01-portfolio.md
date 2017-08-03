@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-03T23:20:04.603Z'
+datePublished: '2017-08-03T23:23:52.640Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-03T23:20:03.915Z'
+dateModified: '2017-08-03T23:23:51.613Z'
 title: Illustrations
 publisher: {}
 description: Books
@@ -40,6 +40,9 @@ Der Fall Kampusch
 Die Presse, 2008  
 Bawag Prozess
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/718f6f34-b169-40df-9164-57b6dd4cbbf9.png)
+
+Neue Zürcher Zeitung, 2015
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84874a7-04ce-4eea-85d1-8fc03a6f8ad7.png)
 
 Die Zeit, 2005  
 Sommerbücher
