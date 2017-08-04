@@ -47,11 +47,11 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
-    name: Who am I?
+  - name: Who am I?
+    id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
     type: content
-  - id: 5d4e929b-6b87-4574-9d1f-9cc5e9ec7a63
-    name: Contact Me
+  - name: Contact Me
+    id: 5d4e929b-6b87-4574-9d1f-9cc5e9ec7a63
     type: content
 layout_spectrum: 0.676271912052416
 color:
@@ -68,11 +68,11 @@ color:
 content_rating:
   adult: false
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8cfcae9-d363-480a-bef6-72bc711650b1.gif
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/98d0e2bb-5215-4687-a9d3-8eaf1e4dac09.png
 typography_spectrum: 0.3545214236073085
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b86dfaf-5cfb-4264-959f-b7a2646552a9.gif
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3109f7b-0d1c-4f17-8a48-3c26a9fc6a03.gif
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bc38dac-cdbf-4901-9e78-7d620316368b.png
 title: Hello there!
