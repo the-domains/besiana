@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T00:17:48.528Z'
-dateModified: '2017-08-04T00:17:47.661Z'
+datePublished: '2017-08-04T00:18:01.218Z'
+dateModified: '2017-08-04T00:18:00.608Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -42,4 +42,3 @@ Use map view to access important tour infos like for eg.: venues, hotels, restau
 **Edit information on the road**  
 If a problem occurs for example "The driver is delayed by 30 minutes", the arrival time is updated by the tour management in the corresponding card. After the changes has been edited, a pre-made push message will be created and sent to the respective travel parties. To ensure that the message has been acknowledged, you can enable an instant feedback option.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638d8397-40b7-4bc1-b7f0-8d191d6c57b6.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f8e735-7f17-4f95-a0cd-2f24c873590a.jpg)
