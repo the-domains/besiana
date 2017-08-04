@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T01:38:37.443Z'
-dateModified: '2017-08-04T01:38:36.936Z'
+datePublished: '2017-08-04T01:45:28.982Z'
+dateModified: '2017-08-04T01:45:28.058Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # MCT Berlin
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/289acfe0-4760-4743-a623-b8a27dd7acd0.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d699c16-1133-4c67-b490-8bb6d7b8ebcd.jpg)
 
 ---
 
