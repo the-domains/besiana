@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T22:10:01.881Z'
-dateModified: '2017-08-03T22:10:00.539Z'
+datePublished: '2017-08-04T00:17:48.528Z'
+dateModified: '2017-08-04T00:17:47.661Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -29,10 +29,14 @@ _type: Article
 ### **PROCESS: **Simple tour planning by creating as many travel-parties and time-boxes as you need.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711a7e7a-63a8-473d-9998-9c5615b62106.gif)
 
-**Plan a Tour**Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
+**Plan a Tour**
+
+Integrate important basic data and additional information to the time-boxes. The information you enter is stored in your data pool. In order to facilitate the recording, the system refers to this data pool, each time you enter this data again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bfcf83d-a89b-4d4e-9da2-9e549d188ced.gif)
 
-**Map view**Use map view to access important tour infos like for eg.: venues, hotels, restaurants or nearby activities.
+**Map view**
+
+Use map view to access important tour infos like for eg.: venues, hotels, restaurants or nearby activities.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de26c7c-507f-4b15-a84f-5ee5cf798839.gif)
 
 **Edit information on the road**  
