@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T02:10:17.594Z'
-dateModified: '2017-08-04T02:10:16.701Z'
+datePublished: '2017-08-04T13:04:58.848Z'
+dateModified: '2017-08-04T13:04:56.506Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -24,7 +24,7 @@ _type: Article
 
 ### **ROLE: **Art Direction, Concept, Design
 
-### **OVERVIEW:** Concept and Design of the daily Newspaper, as well as many other publications like NZZ "Weekend", Special Financial or Educative Editions.
+### **OVERVIEW:** Concept and Design of the daily Newspaper, and many other publications such as NZZ "Weekend", Special Editions about Finance or Education.
 
 ### **PROCESS:** Defining Concept and Design of the diverse NZZ products, means visualising versatile and complex topics, while preserving a unique illustrative and photographic quality of the Brand Identity.
 
