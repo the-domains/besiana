@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T14:31:54.357Z'
-dateModified: '2017-08-04T14:31:43.780Z'
+datePublished: '2017-08-04T15:07:11.788Z'
+dateModified: '2017-08-04T15:07:11.109Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-10-01-portfolio.md
@@ -15,4 +15,4 @@ url: recent-work/index.html
 _type: Article
 
 ---
-## Mobile Web Print
+# Mobile Web Print
