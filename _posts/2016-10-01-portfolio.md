@@ -1,21 +1,21 @@
 ---
-datePublished: '2017-08-04T14:14:57.361Z'
-sourcePath: _posts/2016-10-01-portfolio.md
-inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2017-08-04T14:14:56.266Z'
-title: Illustrations
 publisher: {}
+datePublished: '2017-08-04T14:23:00.304Z'
+dateModified: '2017-08-04T14:22:58.714Z'
 description: ''
+via: {}
+sourcePath: _posts/2016-10-01-portfolio.md
+title: Illustration
+hasPage: true
+inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2016-12-12T22:01:24.226Z'
 url: portfolio/index.html
 _type: Article
 
 ---
-# Illustrations
+# Illustration
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ca038a0-b0f5-4e3c-882c-d113f4dc4b6b.gif)
 
 ---
