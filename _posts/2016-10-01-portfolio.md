@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-04T00:27:44.951Z'
+datePublished: '2017-08-04T01:36:28.927Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-04T00:27:44.014Z'
+dateModified: '2017-08-04T01:36:28.186Z'
 title: Illustrations
 publisher: {}
 description: ''
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # Illustrations
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95f891ca-b3de-471e-9552-c3256f4d6805.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ca038a0-b0f5-4e3c-882c-d113f4dc4b6b.gif)
 
 ---
 
