@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T22:03:19.869Z'
-dateModified: '2017-08-04T22:03:15.768Z'
+datePublished: '2017-08-04T22:04:08.338Z'
+dateModified: '2017-08-04T22:04:06.509Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-10-01-portfolio.md
-title: Mobile I Web I Print
+title: Mobile  I  Web  I  Print
 hasPage: true
 inFeed: true
 author: []
