@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-04T02:13:05.308Z'
+datePublished: '2017-08-04T14:14:57.361Z'
 sourcePath: _posts/2016-10-01-portfolio.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-04T02:13:04.589Z'
+dateModified: '2017-08-04T14:14:56.266Z'
 title: Illustrations
 publisher: {}
 description: ''
@@ -22,9 +22,7 @@ _type: Article
 
 **Books**
 
-"Smartphone Demokratie" 2017
-
-"Die Geheime Kunst der Börsenanalyse" 2014
+"Smartphone Demokratie" 2017, "Die Geheime Kunst der Börsenanalyse" 2014
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe2f8d9-2ff3-4b56-90a8-be707e081963.png)
 
 **Newspapers**
