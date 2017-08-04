@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T00:18:01.218Z'
-dateModified: '2017-08-04T00:18:00.608Z'
+datePublished: '2017-08-04T01:08:26.630Z'
+dateModified: '2017-08-04T01:08:25.792Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -26,7 +26,9 @@ _type: Article
 
 ### **OVERVIEW: **Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies like MCT Agency GmbH Berlin, to organise and plan entire tours, flights, hotels, venues, etc.
 
-### **PROCESS: **Simple tour planning by creating as many travel-parties and time-boxes as you need.
+### **PROCESS: **"From Highway to Hell" (a printed DIN A5 Booklet) to "Stairway to Heaven". From "Book of Lies" to "App of Truth"
+
+### Simple tour planning by creating as many travel-parties and time-boxes as you need.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711a7e7a-63a8-473d-9998-9c5615b62106.gif)
 
 **Plan a Tour**
