@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-08-04T22:04:08.338Z'
-dateModified: '2017-08-04T22:04:06.509Z'
+datePublished: '2017-08-04T22:04:46.841Z'
+dateModified: '2017-08-04T22:04:41.547Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-10-01-portfolio.md
-title: Mobile  I  Web  I  Print
+title: 'Mobile, Web, Print'
 hasPage: true
 inFeed: true
 author: []
@@ -15,4 +15,4 @@ url: recent-work/index.html
 _type: Article
 
 ---
-# Mobile I Web I Print
+# Mobile, Web, Print
