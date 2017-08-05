@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-05T14:12:08.232Z'
-dateModified: '2017-08-05T14:12:06.885Z'
+datePublished: '2017-08-05T14:27:34.429Z'
+dateModified: '2017-08-05T14:27:14.096Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-10-01-portfolio.md
@@ -22,7 +22,8 @@ _type: Article
 
 ### **Books:**
 
-### "Smartphone Demokratie" 2017, "Die Geheime Kunst der Börsenanalyse" 2014 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe2f8d9-2ff3-4b56-90a8-be707e081963.png)
+### "Smartphone Demokratie" 2017, "Die Geheime Kunst der Börsenanalyse" 2014
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe2f8d9-2ff3-4b56-90a8-be707e081963.png)
 
 ### **Newspapers:**
 
