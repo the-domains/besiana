@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-05T14:25:35.985Z'
-dateModified: '2017-08-05T14:25:10.135Z'
+datePublished: '2017-08-05T19:19:58.277Z'
+dateModified: '2017-08-05T19:19:54.437Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -45,3 +45,6 @@ _type: Article
 
 ### If a problem occurs for example "The driver is delayed by 30 minutes", the arrival time is updated by the tour management in the corresponding card. After the changes have been edited, a pre-made push message will be created and send to the respective travel parties. To ensure that the message has been acknowledged, you can enable an instant feedback option.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638d8397-40b7-4bc1-b7f0-8d191d6c57b6.gif)
+[Next][0]
+
+[0]: http://besiana.io/photo-and-editorial-design
