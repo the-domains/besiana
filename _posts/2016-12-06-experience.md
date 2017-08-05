@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-05T19:21:08.834Z'
-dateModified: '2017-08-05T19:21:02.231Z'
+datePublished: '2017-08-05T19:23:24.739Z'
+dateModified: '2017-08-05T19:23:16.215Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -33,6 +33,3 @@ _type: Article
 
 ### NZZ**Specials**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6b07655c48c793b62e198f0cc384d9c7e65db8.png)
-[Next][0]
-
-[0]: http://besiana.io/portfolio
