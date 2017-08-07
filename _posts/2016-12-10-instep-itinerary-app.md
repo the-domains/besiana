@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-06T21:15:13.055Z'
-dateModified: '2017-08-06T21:15:05.776Z'
+datePublished: '2017-08-07T23:06:56.433Z'
+dateModified: '2017-08-07T23:06:54.704Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -41,5 +41,5 @@ _type: Article
 
 ### **Edit information on the road:**
 
-### If a problem occurs for eg. "The driver is delayed by 30 min", the arrival time is updated by the tour management in the corresponding card. After the changes have been edited, a pre-made push message will be send to the respective travel parties.
+### If a problem occurs for e.g. "The driver is delayed by 30 min", the arrival time is updated by the tour management in the corresponding card. After the changes have been edited, a pre-made push message will be send to the respective travel parties.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638d8397-40b7-4bc1-b7f0-8d191d6c57b6.gif)
