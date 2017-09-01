@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-07T23:06:56.433Z'
-dateModified: '2017-08-07T23:06:54.704Z'
+datePublished: '2017-09-01T17:12:20.047Z'
+dateModified: '2017-09-01T17:12:19.109Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-10-instep-itinerary-app.md
@@ -22,7 +22,7 @@ _type: Article
 
 ### **CLIENT: **MCT Agency GmbH, Berlin
 
-### **ROLE: **Concept, Design, Prototype
+### **ROLE: **Concept
 
 ### **OVERVIEW: **Instep is an extensible itinerary tool, that enables Concert Tour Management Agencies like MCT Agency GmbH, to organise and plan entire tours, flights, hotels, venues, etc.
 
