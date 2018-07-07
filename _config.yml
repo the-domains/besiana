@@ -22,62 +22,13 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4596b0-d9f8-4143-89e1-43e7a68f9c90.gif">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4596b0-d9f8-4143-89e1-43e7a68f9c90.gif
-    metadata:
-      author: []
-      '@context': 'http://schema.org'
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdfec29-3c80-458f-a7a5-aa97fcc9c2e8.gif">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/abdfec29-3c80-458f-a7a5-aa97fcc9c2e8.gif
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
-  - id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
-    name: Who am I?
+  - name: Who am I?
+    id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
     type: content
-  - id: 5d4e929b-6b87-4574-9d1f-9cc5e9ec7a63
-    name: Contact Me
+  - name: Contact Me
+    id: 5d4e929b-6b87-4574-9d1f-9cc5e9ec7a63
     type: content
 layout_spectrum: 0.676271912052416
 color:
