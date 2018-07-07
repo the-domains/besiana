@@ -24,7 +24,7 @@ collections:
       number: 10
 content: []
 navigation:
-  - name: Who am I?
+  - name: About me
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
     type: content
   - name: Contact Me
