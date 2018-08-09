@@ -51,7 +51,7 @@ collections:
       number: 10
 title: >-
   I'm a visual and interaction designer. I love what I do. I'm driven by
-  curiosity, ambition, and motivation.
+  curiosity, ambition and motivation.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
