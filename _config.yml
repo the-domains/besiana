@@ -49,9 +49,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: >-
-  I'm a mission driven visual and interaction designer, full of curiosity,
-  ambition and motivation.
+title: I'm a mission driven visual and interaction designer.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
