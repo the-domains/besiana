@@ -50,8 +50,8 @@ collections:
       format: rss
       number: 10
 title: >-
-  I'm a visual and interaction designer. I love what I do. I'm full of
-  curiosity, ambition, and motivation.
+  I'm a visual and interaction designer. I love what I do. I'm driven by
+  curiosity, ambition, and motivation, to change the status quo.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
