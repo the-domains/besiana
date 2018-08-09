@@ -4,7 +4,7 @@ analytics:
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
-    label: 'Contact '
+    label: Contact me
 github: true
 description: 'I''m Besiana Bandilli,  UX Designer'
 author:
@@ -40,7 +40,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
