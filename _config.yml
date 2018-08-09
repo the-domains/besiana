@@ -50,8 +50,8 @@ collections:
       format: rss
       number: 10
 title: >-
-  I'm a visual and interaction designer, driven by curiosity, ambition and
-  motivation.
+  I'm a mission driven visual and interaction designer, full of curiosity,
+  ambition and motivation.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
