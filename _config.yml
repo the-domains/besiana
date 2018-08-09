@@ -49,7 +49,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Visual and Interaction Designer
+title: >-
+  I'm a visual and interaction designer. I love what I do. I'm full of
+  curiosity, ambition, and motivation.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
