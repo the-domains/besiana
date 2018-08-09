@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I'm a visual and interaction designer. I love what I do. I'm curious and motivated to learn something new every day.]]></title>
-        <description><![CDATA[I'm a visual and interaction designer. I love what I do. I'm curious and motivated to learn something new every day.]]></description>
+        <title><![CDATA[Visual and Interaction Designer]]></title>
+        <description><![CDATA[Visual and Interaction Designer]]></description>
         <link>http://besiana.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Aug 2018 17:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Aug 2018 17:41:47 GMT</lastBuildDate>
         <atom:link href="http://besiana.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Aug 2018 17:06:51 GMT</pubDate>
+        <pubDate>Thu, 09 Aug 2018 17:41:45 GMT</pubDate>
         <item>
-            <title><![CDATA[PORTFOLIO]]></title>
-            <description><![CDATA[<h1>PORTFOLIO</h1>]]></description>
+            <title><![CDATA[Portfolio]]></title>
+            <description><![CDATA[<h1>Portfolio</h1>]]></description>
             <link>http://besiana.io/hello-i-am-available-for-exciting-things-lets-talk/index.html</link>
             <guid isPermaLink="false">cd665aa0-ba6f-4e00-ac66-b17706c7c450</guid>
             <pubDate>Sat, 14 Jan 2017 16:58:55 GMT</pubDate>
