@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-11T17:45:35.707Z'
-dateModified: '2018-08-11T17:45:35.478Z'
+datePublished: '2018-08-11T17:52:47.608Z'
+dateModified: '2018-08-11T17:52:47.397Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
