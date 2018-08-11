@@ -32,6 +32,9 @@ navigation:
   - name: Contact
     id: 5d4e929b-6b87-4574-9d1f-9cc5e9ec7a63
     type: content
+  - name: Portfolio
+    id: aefa5091-4d40-40bc-943d-e754be4cd1ef
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9a3727d-6fea-4383-9fae-8c0f6e1e06ea.png
 collections:
