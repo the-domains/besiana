@@ -75,7 +75,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ''
+description: ' I''m a problem solver who cares about crafting products and experiences that are useful, useable, and beautiful.'
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
