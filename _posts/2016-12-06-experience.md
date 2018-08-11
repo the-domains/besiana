@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-08-11T18:50:36.649Z'
-dateModified: '2018-08-11T18:50:36.268Z'
+datePublished: '2018-08-11T18:54:46.585Z'
+dateModified: '2018-08-11T18:54:45.870Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
-title: 'NZZ AG '
+title: NZZ AG
 hasPage: true
 inFeed: true
 author: []
@@ -15,7 +15,8 @@ url: nzz/index.html
 _type: Article
 
 ---
-# NZZ AG ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cad3177-54a0-48bf-9983-30ed7e6e8c78.png)
+# NZZ AG
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cad3177-54a0-48bf-9983-30ed7e6e8c78.png)
 
 ---
 
@@ -32,3 +33,8 @@ _type: Article
 
 ### NZZ**Specials**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6b07655c48c793b62e198f0cc384d9c7e65db8.png)
+[Next Project][0]
+[Previous Project][1]
+
+[0]: http://besiana.io/sponti
+[1]: http://besiana.io/web-design
