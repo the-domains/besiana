@@ -73,8 +73,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  I love what I do. I'm a problem solver who cares about crafting products and
-  experiences that are useful and beautiful.
+  I'm a problem solver who cares about crafting products and experiences that
+  are useful and beautiful.
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
