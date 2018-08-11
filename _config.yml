@@ -26,9 +26,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c57d216-7e7f-40ad-bae5-06f25f646c0c.png
 name: BB
 navigation:
-  - name: Portfolio
-    id: 9133514d-1e1d-40b2-b98e-94c8da5f5255
-    type: content
   - name: 'About '
     id: cd665aa0-ba6f-4e00-ac66-b17706c7c450
     type: content
