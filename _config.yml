@@ -46,7 +46,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'I am Besiana Bandilli, Product Designer, UX/UI Designer.'
+title: 'I''m Besiana Bandilli, Product Designer, UX/UI Designer.'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
