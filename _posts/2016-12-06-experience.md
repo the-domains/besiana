@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-08-11T18:21:30.513Z'
-dateModified: '2018-08-11T18:21:30.082Z'
+datePublished: '2018-08-11T18:22:41.068Z'
+dateModified: '2018-08-11T18:22:40.369Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
-title: NZZ AG – Visual Design and Art Direction
+title: NZZ AG – Art Direction
 hasPage: true
 inFeed: true
 author: []
@@ -15,7 +15,7 @@ url: nzz/index.html
 _type: Article
 
 ---
-# NZZ AG -- Visual Design and Art Direction
+# NZZ AG -- Art Direction
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cad3177-54a0-48bf-9983-30ed7e6e8c78.png)
 
 ---
