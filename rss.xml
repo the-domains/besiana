@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Visual and Interaction Designer]]></title>
-        <description><![CDATA[Visual and Interaction Designer]]></description>
+        <title><![CDATA[I'm Besiana Bandilli  — Product Designer, UX/UI Designer. I'm a problem solver who cares about crafting products and experiences that are useful, useable, and beautiful.]]></title>
+        <description><![CDATA[I'm Besiana Bandilli  — Product Designer, UX/UI Designer. I'm a problem solver who cares about crafting products and experiences that are useful, useable, and beautiful.]]></description>
         <link>http://besiana.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Aug 2018 16:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Aug 2018 16:45:50 GMT</lastBuildDate>
         <atom:link href="http://besiana.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Aug 2018 16:00:38 GMT</pubDate>
+        <pubDate>Sat, 11 Aug 2018 16:45:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Sponti]]></title>
+            <description><![CDATA[<h1>Sponti</h1>,<p>Sponti makes meal planning and shopping super easy.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/475d82df-387d-44fa-8fb2-ec7b1e767656.jpg">]]></description>
+            <link>http://besiana.io/sponti/index.html</link>
+            <guid isPermaLink="false">aefa5091-4d40-40bc-943d-e754be4cd1ef</guid>
+            <pubDate>Sat, 11 Aug 2018 16:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instep]]></title>
+            <description><![CDATA[<h1>Instep</h1>,<h3><strong>CLIENT: </strong>MCT, Berlin</h3>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed18c936-25ef-495c-9721-164a7d0b9278.png">]]></description>
+            <link>http://besiana.io/instep/index.html</link>
+            <guid isPermaLink="false">f95d5bfd-156c-49df-bffe-504cbc69c0d8</guid>
+            <pubDate>Sat, 11 Aug 2018 16:01:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mila]]></title>
             <description><![CDATA[<h1>Mila</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7fb368b-f27d-40d2-bfa7-2a3146beacc6.png">]]></description>
@@ -20,6 +34,13 @@
             <link>http://besiana.io/photo-and-editorial-design/index.html</link>
             <guid isPermaLink="false">6d7178f9-72bd-4e33-b6c2-b5b82590331f</guid>
             <pubDate>Thu, 15 Dec 2016 20:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medbot]]></title>
+            <description><![CDATA[<h1>Medbot</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fbf7db7-793b-4df0-bede-30de424d8a85.gif">]]></description>
+            <link>http://besiana.io/medbot/index.html</link>
+            <guid isPermaLink="false">952a2aa4-6b55-4544-9a7f-69f37c694461</guid>
+            <pubDate>Sat, 11 Aug 2018 16:11:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Besiana Lauper Bandilli ]]></title>
