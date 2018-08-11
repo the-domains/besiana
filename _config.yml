@@ -50,9 +50,9 @@ collections:
       format: rss
       number: 10
 title: >-
-  I'm Besiana Bandilli  — Digital Product Designer, UX/UI Designer. I'm a
-  problem solver who cares about crafting products and experiences that are
-  useful, useable, and beautiful.
+  I'm Besiana Bandilli  — Digital Product Designer, UX/UI Designer. I love what
+  I do. I'm a problem solver who cares about crafting products and experiences
+  that are useful, useable, and beautiful.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
