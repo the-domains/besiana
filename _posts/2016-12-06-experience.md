@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-08-11T18:23:53.409Z'
-dateModified: '2018-08-11T18:23:52.956Z'
+datePublished: '2018-08-11T18:25:49.396Z'
+dateModified: '2018-08-11T18:25:48.495Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
-title: NZZ AG – Art Direction
+title: 'NZZ AG '
 hasPage: true
 inFeed: true
 author: []
@@ -15,8 +15,7 @@ url: nzz/index.html
 _type: Article
 
 ---
-# NZZ AG -- Art Direction
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cad3177-54a0-48bf-9983-30ed7e6e8c78.png)
+# NZZ AG ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cad3177-54a0-48bf-9983-30ed7e6e8c78.png)
 
 ---
 
