@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-11T18:54:46.585Z'
-dateModified: '2018-08-11T18:54:45.870Z'
+datePublished: '2018-08-20T11:43:18.768Z'
+dateModified: '2018-08-20T11:43:17.668Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # NZZ AG
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cad3177-54a0-48bf-9983-30ed7e6e8c78.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffab7a35-017f-42a8-909f-5f4ed9ffc309.png)
 
 ---
 
