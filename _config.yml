@@ -73,8 +73,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  I'm Besiana Bandilli, senior digital product / User Experience Designer, on a
-  mission to boost purpose driven products and services with people in mind.
+  I'm Besiana Bandilli, senior digital product designer  / user experience
+  Designer, on a mission to boost purpose driven products and services with
+  people in mind.
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
