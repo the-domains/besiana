@@ -73,9 +73,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  I'm Besiana Bandilli. Digital Product Designer, UX/UI Designer. I love what I
-  do and deeply care about crafting useful products and beautiful user
-  experiences.
+  I'm Besiana Bandilli. Digital Product Designer, UX/UI Designer. Crafting
+  useful products and beautiful user experiences.
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
