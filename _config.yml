@@ -46,7 +46,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Hello there! I'm Besiana Bandilli
+title: Hello there! It is nice to see you.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
