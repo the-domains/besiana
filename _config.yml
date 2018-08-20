@@ -74,8 +74,8 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   I'm Besiana Bandilli, a product manager and user experience designer, on a
-  mission is, to boost purpose driven products and useful experiences with
-  people in mind.
+  mission to boost purpose driven products and useful experiences with people in
+  mind.
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
