@@ -73,8 +73,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  I'm a Digital Product Designer, UX/UI Designer on a mission, to boost purpose
-  driven innovation. 
+  I'm a multifunctional digital product / UX/UI Designer, on a mission to boost
+  purpose driven innovation. 
 purpose:
   - type: contact
     url: 'mailto:bandillib@gmail.com'
