@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-20T11:43:18.768Z'
-dateModified: '2018-08-20T11:43:17.668Z'
+datePublished: '2018-08-20T11:56:06.747Z'
+dateModified: '2018-08-20T11:56:05.913Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-12-06-experience.md
@@ -20,6 +20,13 @@ _type: Article
 
 ---
 
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
+
+### NZZ**Specials**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6b07655c48c793b62e198f0cc384d9c7e65db8.png)
+[Next Project][0]
+[Previous Project][1]
+
 ### **CLIENT: **Neue Zürcher Zeitung
 
 ### **ROLE: **Art Direction, Concept, Design
@@ -29,12 +36,6 @@ _type: Article
 ### **PROCESS:** Defining Concept and Design of the diverse NZZ products, means visualising versatile and complex topics, while preserving a unique illustrative and photographic quality of the Brand Identity.
 
 ### NZZ**Weekend**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/050835b8ff21aaea8b658fe544a6bcea7bbe672f.png)
-
-### NZZ**Specials**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6b07655c48c793b62e198f0cc384d9c7e65db8.png)
-[Next Project][0]
-[Previous Project][1]
 
 [0]: http://besiana.io/sponti
 [1]: http://besiana.io/web-design
